@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "a8b846beaeb93488",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cbca3e8e5ac94c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5d5a16ae62f6c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "account.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93bf6648e3180670",
+    "type": "split",
+    "children": [
+      {
+        "id": "750f32051792d6b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2274d30ea099b4d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "985bf1284469e16c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "419d881f42a41402",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2dec88a752af647a",
+    "type": "split",
+    "children": [
+      {
+        "id": "09769e86c564f5d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a11c6d0f8120a97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "account.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b369a049c9c1324",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "account.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39425ed12cff4819",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "69bca4bc972500fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "account.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d5d5a16ae62f6c7e",
+  "lastOpenFiles": [
+    "google account.canvas",
+    "account.md",
+    "obsidian-account.canvas",
+    "未命名",
+    "未命名.canvas",
+    "2023-11-09.md",
+    "vue3知识汇总.md",
+    "vue3.md",
+    "vue2.md",
+    "前端.md",
+    "js知识汇总.md",
+    "前端开发前置准备.md",
+    "开发工具.md",
+    "前端环境配置.md",
+    "echarts图表.md",
+    "人工智能技术.md",
+    "计算机工程.md",
+    "人工智能.md",
+    "软件.md",
+    "后端.md",
+    "人工智能应用.md",
+    "产品设计.md",
+    "UI设计.md",
+    "计算机基础.md",
+    "sass.md",
+    "less.md",
+    "小说主题.canvas",
+    "vue封装el-dialog等反馈组件hook.md",
+    "封装弹层hook）.md",
+    "封装弹层hook.md"
+  ]
+}
