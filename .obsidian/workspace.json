@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0bbf7b3ed2c23847",
+        "id": "902207b8585a88fa",
         "type": "tabs",
         "children": [
           {
-            "id": "b02eef4b5e66d50e",
+            "id": "efb08b207f64d678",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "临时文件/crm 线上营销统计数据代码.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "临时文件/crm 线上营销统计数据代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "临时文件/crm 线上营销统计数据代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.canvas"
+                "file": "临时文件/crm 线上营销统计数据代码.md"
               }
             }
           }
@@ -151,8 +147,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "985bf1284469e16c",
+  "active": "efb08b207f64d678",
   "lastOpenFiles": [
+    "临时文件/crm 线上营销统计数据代码.md",
+    "临时文件",
+    "2023-11-15.md",
+    "未命名 2.canvas",
+    "js知识汇总.md",
     "未命名 1.canvas",
     "Excalidraw/Drawing 2023-11-14 18.29.42.excalidraw.md",
     "前端环境配置.md",
@@ -167,7 +168,6 @@
     "vue2.md",
     "sass.md",
     "less.md",
-    "js知识汇总.md",
     "account.md",
     "echarts图表.md",
     "小说主题.canvas",
@@ -182,9 +182,7 @@
     "计算机工程.md",
     "google account.canvas",
     "obsidian-account.canvas",
-    "未命名",
     "2023-11-09.md",
-    "后端.md",
-    "封装弹层hook）.md"
+    "后端.md"
   ]
 }
