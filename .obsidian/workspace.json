@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "902207b8585a88fa",
+        "id": "46bf466c479d6fbe",
         "type": "tabs",
         "children": [
           {
-            "id": "efb08b207f64d678",
+            "id": "c1a0d92dc9e59c14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "临时文件/crm 线上营销统计数据代码.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "临时文件/crm 线上营销统计数据代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "临时文件/crm 线上营销统计数据代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "临时文件/crm 线上营销统计数据代码.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,7 +139,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "efb08b207f64d678",
+  "active": "c1a0d92dc9e59c14",
   "lastOpenFiles": [
     "临时文件/crm 线上营销统计数据代码.md",
     "临时文件",
