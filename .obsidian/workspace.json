@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "dde1015430106027",
+        "id": "43007f6fa2aaa475",
         "type": "tabs",
         "children": [
           {
-            "id": "32a8c3a75562bcb7",
+            "id": "2a0298133d38ba6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机/软件开发/后端/后端.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d11fe14fb6df108",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机/软件开发/后端/后端.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机/软件开发/后端/后端.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机/软件开发/后端/后端.md"
+              }
             }
           }
         ]
@@ -139,18 +158,34 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "32a8c3a75562bcb7",
+  "active": "3d11fe14fb6df108",
   "lastOpenFiles": [
+    "计算机/软件开发/工具/fiddler抓包工具.md",
+    "计算机/软件开发/工具/git.md",
+    "计算机/软件开发/前端/前端.md",
+    "计算机/软件开发/前端/前端开发前置准备.md",
+    "计算机/软件开发/前端/前端环境配置.md",
+    "计算机/软件开发/前端/开发工具.md",
+    "计算机/软件开发/前端/技术/css/sass.md",
+    "计算机/软件开发/前端/技术/css/less.md",
+    "计算机/软件开发/后端/后端.md",
+    "计算机/软件开发/工具",
+    "未命名",
+    "书籍/思考的框架.md",
+    "人力资源/人才画像.md",
+    "书籍",
+    "人力资源/人才盘点.md",
+    "人力资源/性格测评.md",
+    "Excalidraw/Drawing 2023-11-14 18.29.42.excalidraw.md",
+    "人力资源",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "小说主题.canvas",
+    "记录/DR-account.md",
+    "记录/account.md",
     "计算机/人工智能/人工智能技术.md",
     "计算机/人工智能/人工智能.md",
-    "未命名 1.canvas",
     "Excalidraw/未命名.canvas",
-    "未命名",
-    "Excalidraw/Drawing 2023-11-14 18.29.42.excalidraw.md",
-    "未命名.canvas",
-    "记录/account.md",
-    "计算机/软件开发/前端/前端.md",
-    "小说主题.canvas",
     "计算机/计算机工程.md",
     "记录",
     "计算机",
@@ -159,28 +194,13 @@
     "计算机/软件开发/UI/UI设计.md",
     "计算机/软件开发/产品设计.md",
     "计算机/软件开发/UI",
-    "计算机/软件开发/前端/开发工具.md",
     "计算机/软件开发",
-    "计算机/软件开发/后端/后端.md",
     "计算机/软件开发/后端",
     "计算机/人工智能/人工智能应用.md",
     "计算机/软件开发/前端/技术/echarts/echarts图表.md",
     "计算机/软件开发/前端/技术/echarts",
-    "计算机/软件开发/前端/技术/css/less.md",
-    "计算机/软件开发/前端/技术/css",
-    "计算机/软件开发/前端/技术/js",
     "计算机/软件开发/前端/技术/vue/vue2.md",
-    "计算机/软件开发/前端/技术/vue/vue3知识汇总.md",
-    "计算机/软件开发/前端/技术/vue",
-    "2023-11-15.md",
     "未命名 2.canvas",
-    "临时文件/crm 线上营销统计数据代码.md",
-    "计算机/软件开发/前端/技术/js/js知识汇总.md",
-    "计算机/软件开发/前端/前端环境配置.md",
-    "计算机/软件开发/前端/前端开发前置准备.md",
-    "计算机/软件开发/前端/技术/vue/vue封装el-dialog等反馈组件hook.md",
-    "计算机/软件开发/前端/技术/css/sass.md",
-    "计算机/软件开发/前端/技术/vue/vue3.md",
     "google account.canvas",
     "obsidian-account.canvas"
   ]
