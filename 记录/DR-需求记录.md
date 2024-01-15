@@ -27,3 +27,11 @@ value: "{\"value\": \"65\"}"
 value: "{\"value\": \"2023.11.24\"}"
 3、产品value: 
 "{\"value\": [{\"id\": \"2\", \"num\": null, \"cost\": 0, \"name\": \"人才盘点\", \"unit\": null, \"price\": 0, \"status\": \"0\", \"delFlag\": \"0\", \"createBy\": null, \"updateBy\": null, \"categoryId\": \"1\", \"createTime\": \"2023.02.10 14:40\", \"updateTime\": null, \"description\": null, \"ownerUserId\": \"739\", \"categoryName\": \"咨询\", \"ownerUserName\": \"赵玲\"}, {\"id\": \"8\", \"num\": null, \"cost\": 0, \"name\": \"绩效\", \"unit\": null, \"price\": 0, \"status\": \"0\", \"delFlag\": \"0\", \"createBy\": null, \"updateBy\": null, \"categoryId\": \"1\", \"createTime\": \"2023.02.10 14:40\", \"updateTime\": null, \"description\": null, \"ownerUserId\": \"739\", \"categoryName\": \"咨询\", \"ownerUserName\": \"赵玲\"}, {\"id\": \"10\", \"num\": null, \"cost\": 0, \"name\": \"人才画像\", \"unit\": null, \"price\": 0, \"status\": \"0\", \"delFlag\": \"0\", \"createBy\": null, \"updateBy\": null, \"categoryId\": \"1\", \"createTime\": \"2023.02.10 14:40\", \"updateTime\": null, \"description\": null, \"ownerUserId\": \"739\", \"categoryName\": \"咨询\", \"ownerUserName\": \"赵玲\"}, {\"id\": \"9\", \"num\": null, \"cost\": 0, \"name\": \"选人\", \"unit\": null, \"price\": 0, \"status\": \"0\", \"delFlag\": \"0\", \"createBy\": null, \"updateBy\": null, \"categoryId\": \"1\", \"createTime\": \"2023.02.10 14:40\", \"updateTime\": null, \"description\": null, \"ownerUserId\": \"739\", \"categoryName\": \"咨询\", \"ownerUserName\": \"赵玲\"}]}"
+
+
+盘点校准表
+建议弹层文本换行、得分详情图表最低值
+素质、业绩均分筛选
+搜索模糊搜索？
+360报告优劣势增加校准表里的优劣势
+校准按直线上级从高到低排序
