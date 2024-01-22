@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/DR-需求记录.md",
+                "file": "计算机/软件开发/前端/node 常见问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "记录/DR-需求记录.md",
+                "file": "计算机/软件开发/前端/node 常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "记录/DR-需求记录.md",
+                "file": "计算机/软件开发/前端/node 常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "记录/DR-需求记录.md"
+                "file": "计算机/软件开发/前端/node 常见问题.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "2a0298133d38ba6b",
   "lastOpenFiles": [
-    "记录/DR-account.md",
+    "计算机/软件开发/前端/前端.md",
+    "计算机/软件开发/前端/node 常见问题.md",
     "记录/DR-需求记录.md",
+    "记录/DR-account.md",
     "记录/account.md",
     "计算机/软件开发/软件.md",
     "计算机/软件开发/产品设计.md",
@@ -162,7 +164,6 @@
     "计算机/软件开发/后端/后端.md",
     "计算机/软件开发/工具/fiddler抓包工具.md",
     "计算机/软件开发/工具/git.md",
-    "计算机/软件开发/前端/前端.md",
     "计算机/软件开发/前端/前端开发前置准备.md",
     "计算机/软件开发/前端/前端环境配置.md",
     "计算机/软件开发/前端/开发工具.md",
@@ -187,7 +188,6 @@
     "计算机/软件开发",
     "计算机/软件开发/后端",
     "计算机/人工智能/人工智能应用.md",
-    "计算机/软件开发/前端/技术/echarts/echarts图表.md",
     "计算机/软件开发/前端/技术/echarts",
     "未命名 2.canvas",
     "google account.canvas",
