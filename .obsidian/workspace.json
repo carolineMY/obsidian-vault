@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f57bd08567a69b04",
+        "id": "3cf135eb6455a2be",
         "type": "tabs",
         "children": [
           {
-            "id": "0852c5a160dc82c9",
+            "id": "c5852c09e66452c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/软件开发/工具/git.md",
+                "file": "计算机/软件开发/产品设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/软件开发/工具/git.md",
+                "file": "计算机/软件开发/产品设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/软件开发/工具/git.md",
+                "file": "计算机/软件开发/产品设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/软件开发/工具/git.md"
+                "file": "计算机/软件开发/产品设计.md"
               }
             }
           }
@@ -147,16 +147,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0852c5a160dc82c9",
+  "active": "c5852c09e66452c0",
   "lastOpenFiles": [
+    "计算机/软件开发/工具/git.md",
+    "计算机/软件开发/工具/fiddler抓包工具.md",
     "计算机/软件开发/前端/开发工具.md",
-    "Drawing 2024-01-22 09.13.42.excalidraw.md",
-    "计算机/软件开发/前端/node 常见问题.md",
-    "未命名 1.canvas",
     "计算机/软件开发/前端/前端.md",
-    "记录/DR-需求记录.md",
+    "npm.md",
+    "webpack知识汇总.md",
+    "计算机/软件开发/前端/node 常见问题.md",
+    "计算机/软件开发/前端/前端环境配置.md",
     "记录/DR-account.md",
+    "记录/DR-需求记录.md",
     "记录/account.md",
+    "Drawing 2024-01-22 09.13.42.excalidraw.md",
+    "未命名 1.canvas",
     "计算机/软件开发/软件.md",
     "计算机/软件开发/产品设计.md",
     "计算机/计算机基础.md",
@@ -164,10 +169,7 @@
     "未命名.canvas",
     "小说主题.canvas",
     "计算机/软件开发/后端/后端.md",
-    "计算机/软件开发/工具/fiddler抓包工具.md",
-    "计算机/软件开发/工具/git.md",
     "计算机/软件开发/前端/前端开发前置准备.md",
-    "计算机/软件开发/前端/前端环境配置.md",
     "计算机/软件开发/前端/技术/css/sass.md",
     "计算机/软件开发/前端/技术/css/less.md",
     "计算机/软件开发/工具",
@@ -180,11 +182,9 @@
     "Excalidraw/Drawing 2023-11-14 18.29.42.excalidraw.md",
     "人力资源",
     "计算机/人工智能/人工智能技术.md",
-    "计算机/人工智能/人工智能.md",
     "Excalidraw/未命名.canvas",
     "记录",
     "计算机",
-    "计算机/软件开发/UI/UI设计.md",
     "计算机/软件开发/UI",
     "计算机/软件开发",
     "计算机/软件开发/后端",
