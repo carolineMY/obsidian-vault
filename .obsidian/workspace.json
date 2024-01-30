@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/软件开发/前端/开发工具.md",
+                "file": "计算机/软件开发/工具/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/软件开发/前端/开发工具.md",
+                "file": "计算机/软件开发/工具/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/软件开发/前端/开发工具.md",
+                "file": "计算机/软件开发/工具/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/软件开发/前端/开发工具.md"
+                "file": "计算机/软件开发/工具/git.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "0852c5a160dc82c9",
   "lastOpenFiles": [
-    "Drawing 2024-01-22 09.13.42.excalidraw.md",
     "计算机/软件开发/前端/开发工具.md",
+    "Drawing 2024-01-22 09.13.42.excalidraw.md",
     "计算机/软件开发/前端/node 常见问题.md",
     "未命名 1.canvas",
     "计算机/软件开发/前端/前端.md",
