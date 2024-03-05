@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/软件开发/工具/git.md",
+                "file": "计算机/软件开发/前端/技术/js/工具方法.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "09f106d664397449",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/软件开发/工具/git.md",
+                "file": "计算机/软件开发/前端/技术/js/工具方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/软件开发/工具/git.md",
+                "file": "计算机/软件开发/前端/技术/js/工具方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/软件开发/工具/git.md"
+                "file": "计算机/软件开发/前端/技术/js/工具方法.md"
               }
             }
           }
@@ -159,12 +147,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "09f106d664397449",
+  "active": "c5852c09e66452c0",
   "lastOpenFiles": [
+    "计算机/软件开发/工具/git.md",
     "计算机/软件开发/前端/开发工具.md",
     "计算机/软件开发/前端/技术/js/工具方法.md",
     "npm.md",
-    "计算机/软件开发/工具/git.md",
     "计算机/软件开发/产品设计.md",
     "计算机/软件开发/工具/fiddler抓包工具.md",
     "计算机/软件开发/前端/前端.md",
