@@ -24,7 +24,7 @@ git checkout -b release-1.2.1 新建并切换到分支
 
 git cherry-pick 4a2f8a1465b3d94b5ad80d7b4fc6abb09d6f5831 拉取某次提交到当前分支
 
-git push -u  本地仓库关联到远程仓库
+git push origin release/1.1.1 -u  本地仓库关联到远程仓库
 
 git log --author=Caroline --since=2023-01-01 --until=2023-12-26 --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }'
 查询某段时间代码提交记录
