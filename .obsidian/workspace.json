@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f71df67831d4aea3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/软件开发/工具/git.md",
+                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/软件开发/工具/git.md",
+                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/软件开发/工具/git.md"
+                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md"
               }
             }
           }
@@ -148,13 +159,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c5852c09e66452c0",
+  "active": "f71df67831d4aea3",
   "lastOpenFiles": [
+    "计算机/软件开发/工具/git.md",
+    "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
     "记录/account.md",
     "计算机/软件开发/前端/技术/uniapp/大文件分片上传.md",
     "计算机/软件开发/前端/技术/js/工具方法.md",
     "计算机/软件开发/前端/技术/uniapp",
-    "计算机/软件开发/工具/git.md",
     "计算机/软件开发/前端/开发工具.md",
     "npm.md",
     "计算机/软件开发/产品设计.md",
@@ -182,7 +194,6 @@
     "人力资源/人才画像.md",
     "书籍",
     "人力资源/人才盘点.md",
-    "人力资源/性格测评.md",
     "人力资源",
     "Excalidraw/未命名.canvas",
     "记录",
