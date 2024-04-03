@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,29 +160,30 @@
   },
   "active": "f71df67831d4aea3",
   "lastOpenFiles": [
-    "计算机/软件开发/工具/git.md",
+    "Excalidraw/Drawing 2023-11-14 18.29.42.excalidraw.md",
     "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
+    "未命名 1.canvas",
+    "小说主题.canvas",
+    "npm.md",
+    "webpack知识汇总.md",
+    "未命名.canvas",
+    "Drawing 2024-01-22 09.13.42.excalidraw.md",
+    "计算机/软件开发/工具/git.md",
     "记录/account.md",
     "计算机/软件开发/前端/技术/uniapp/大文件分片上传.md",
     "计算机/软件开发/前端/技术/js/工具方法.md",
     "计算机/软件开发/前端/技术/uniapp",
     "计算机/软件开发/前端/开发工具.md",
-    "npm.md",
     "计算机/软件开发/产品设计.md",
     "计算机/软件开发/工具/fiddler抓包工具.md",
     "计算机/软件开发/前端/前端.md",
-    "webpack知识汇总.md",
     "计算机/软件开发/前端/node 常见问题.md",
     "计算机/软件开发/前端/前端环境配置.md",
     "记录/DR-account.md",
     "记录/DR-需求记录.md",
-    "Drawing 2024-01-22 09.13.42.excalidraw.md",
-    "未命名 1.canvas",
     "计算机/软件开发/软件.md",
     "计算机/计算机基础.md",
     "计算机/计算机工程.md",
-    "未命名.canvas",
-    "小说主题.canvas",
     "计算机/软件开发/后端/后端.md",
     "计算机/软件开发/前端/前端开发前置准备.md",
     "计算机/软件开发/前端/技术/css/sass.md",
@@ -193,7 +193,6 @@
     "书籍/思考的框架.md",
     "人力资源/人才画像.md",
     "书籍",
-    "人力资源/人才盘点.md",
     "人力资源",
     "Excalidraw/未命名.canvas",
     "记录",
