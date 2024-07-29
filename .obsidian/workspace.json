@@ -45,9 +45,11 @@
             "id": "2804540f6382cae4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "记录/DR-account.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/软件开发/前端/node 常见问题.md",
+                "file": "记录/DR-account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/软件开发/前端/node 常见问题.md",
+                "file": "记录/DR-account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/软件开发/前端/node 常见问题.md"
+                "file": "记录/DR-account.md"
               }
             }
           }
@@ -182,6 +184,7 @@
   },
   "active": "2804540f6382cae4",
   "lastOpenFiles": [
+    "记录/account.md",
     "计算机/软件开发/前端/技术/uniapp/大文件分片上传.md",
     "计算机/软件开发/前端/技术/js/工具方法.md",
     "计算机/软件开发/前端/技术/css/sass.md",
@@ -195,7 +198,6 @@
     "未命名.canvas",
     "Drawing 2024-01-22 09.13.42.excalidraw.md",
     "计算机/软件开发/工具/git.md",
-    "记录/account.md",
     "计算机/软件开发/前端/技术/uniapp",
     "计算机/软件开发/前端/开发工具.md",
     "计算机/软件开发/产品设计.md",
