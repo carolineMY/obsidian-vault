@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/DR-account.md",
+                "file": "计算机/人工智能/人工智能应用.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "记录/DR-account.md",
+                "file": "计算机/人工智能/人工智能应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "记录/DR-account.md",
+                "file": "计算机/人工智能/人工智能应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "记录/DR-account.md"
+                "file": "计算机/人工智能/人工智能应用.md"
               }
             }
           }
@@ -184,6 +184,8 @@
   },
   "active": "2804540f6382cae4",
   "lastOpenFiles": [
+    "计算机/人工智能/人工智能.md",
+    "记录/DR-account.md",
     "记录/account.md",
     "计算机/软件开发/前端/技术/uniapp/大文件分片上传.md",
     "计算机/软件开发/前端/技术/js/工具方法.md",
@@ -205,7 +207,6 @@
     "计算机/软件开发/前端/前端.md",
     "计算机/软件开发/前端/node 常见问题.md",
     "计算机/软件开发/前端/前端环境配置.md",
-    "记录/DR-account.md",
     "记录/DR-需求记录.md",
     "计算机/软件开发/软件.md",
     "计算机/计算机基础.md",
@@ -215,7 +216,6 @@
     "计算机/软件开发/工具",
     "未命名",
     "书籍/思考的框架.md",
-    "人力资源/人才画像.md",
     "书籍",
     "人力资源",
     "Excalidraw/未命名.canvas",
