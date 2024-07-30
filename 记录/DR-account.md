@@ -4,6 +4,9 @@ ccc 123456 测评
 zhao zhaozhao
 admin dRzx@2)@2
 
+测试环境-evaluation-UI 包放的服务地址：
+![[Pasted image 20240730113331.png]]
+
 开发：zhao 123456
 pdf - request 报告转pdf
 curl --location 'http://192.168.10.13:3100/forms/chromium/convert/url' \  
