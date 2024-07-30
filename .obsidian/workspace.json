@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/DR-account.md",
+                "file": "计算机/人工智能/人工智能应用/AI 文生图.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "记录/DR-account.md",
+                "file": "计算机/人工智能/人工智能应用/AI 文生图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "记录/DR-account.md",
+                "file": "计算机/人工智能/人工智能应用/AI 文生图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "记录/DR-account.md"
+                "file": "计算机/人工智能/人工智能应用/AI 文生图.md"
               }
             }
           }
@@ -184,11 +184,14 @@
   },
   "active": "2804540f6382cae4",
   "lastOpenFiles": [
+    "计算机/人工智能/人工智能技术.md",
+    "计算机/人工智能/人工智能应用/AI 文生图.md",
+    "计算机/人工智能/人工智能应用/总览.md",
+    "计算机/人工智能/人工智能.md",
+    "计算机/人工智能/人工智能应用",
+    "记录/DR-account.md",
     "Pasted image 20240730113331.png",
     "Pasted image 20240730113328.png",
-    "计算机/人工智能/人工智能应用.md",
-    "计算机/人工智能/人工智能.md",
-    "记录/DR-account.md",
     "记录/account.md",
     "计算机/软件开发/前端/技术/uniapp/大文件分片上传.md",
     "计算机/软件开发/前端/技术/js/工具方法.md",
@@ -214,9 +217,7 @@
     "计算机/软件开发/软件.md",
     "计算机/计算机基础.md",
     "计算机/计算机工程.md",
-    "计算机/软件开发/后端/后端.md",
     "计算机/软件开发/工具",
-    "未命名",
     "书籍",
     "人力资源",
     "Excalidraw/未命名.canvas",
