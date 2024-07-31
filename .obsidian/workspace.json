@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI 文生图-摄影提示词.md",
+                "file": "计算机/人工智能/人工智能应用/AI 文生图-MJ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI 文生图-摄影提示词.md",
+                "file": "计算机/人工智能/人工智能应用/AI 文生图-MJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI 文生图-摄影提示词.md",
+                "file": "计算机/人工智能/人工智能应用/AI 文生图-MJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI 文生图-摄影提示词.md"
+                "file": "计算机/人工智能/人工智能应用/AI 文生图-MJ.md"
               }
             }
           }
@@ -149,19 +149,20 @@
   },
   "active": "53146f3c36c30943",
   "lastOpenFiles": [
-    "Pasted image 20240731134541.png",
-    "Pasted image 20240731134039.png",
-    "Pasted image 20240731133812.png",
-    "Pasted image 20240731133141.png",
-    "Pasted image 20240731132748.png",
-    "Pasted image 20240731132622.png",
-    "Pasted image 20240731132335.png",
-    "Pasted image 20240731132056.png",
-    "Pasted image 20240731131732.png",
-    "Pasted image 20240731131457.png",
-    "Pasted image 20240731130817.png",
-    "计算机/人工智能/人工智能应用/AI 文生图-摄影提示词.md",
+    "Pasted image 20240731161332.png",
+    "Pasted image 20240731161249.png",
+    "Pasted image 20240731160739.png",
+    "Pasted image 20240731160719.png",
+    "Pasted image 20240731160655.png",
+    "Pasted image 20240731160627.png",
+    "Pasted image 20240731160531.png",
+    "Pasted image 20240731160352.png",
+    "Pasted image 20240731160314.png",
+    "Pasted image 20240731160102.png",
+    "Pasted image 20240731155926.png",
     "计算机/人工智能/人工智能应用/AI 文生图-漫画、三维作品.md",
+    "计算机/人工智能/人工智能应用/AI 文生图-MJ.md",
+    "Excalidraw/Drawing 2024-07-31 14.23.19.excalidraw.md",
     "计算机/人工智能/人工智能应用/AI 文生图-艺术画提示词.md",
     "计算机/软件开发/前端/node 常见问题.md",
     "计算机/人工智能/人工智能应用/总览.md",
@@ -188,7 +189,6 @@
     "npm.md",
     "webpack知识汇总.md",
     "未命名.canvas",
-    "Drawing 2024-01-22 09.13.42.excalidraw.md",
     "计算机/软件开发/前端/技术/uniapp",
     "计算机/软件开发/工具",
     "书籍",
