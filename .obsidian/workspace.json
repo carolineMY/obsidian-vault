@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c46b04a276504569",
+        "id": "f1995b48a480e90d",
         "type": "tabs",
         "children": [
           {
-            "id": "53146f3c36c30943",
+            "id": "8b1753cc16282f74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI 文生图-MJ.md",
+                "file": "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI 文生图-MJ.md",
+                "file": "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI 文生图-MJ.md",
+                "file": "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI 文生图-MJ.md"
+                "file": "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ.md"
               }
             }
           }
@@ -147,33 +147,37 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "53146f3c36c30943",
+  "active": "8b1753cc16282f74",
   "lastOpenFiles": [
-    "Pasted image 20240731161332.png",
-    "Pasted image 20240731161249.png",
-    "Pasted image 20240731160739.png",
-    "Pasted image 20240731160719.png",
-    "Pasted image 20240731160655.png",
-    "Pasted image 20240731160627.png",
-    "Pasted image 20240731160531.png",
-    "Pasted image 20240731160352.png",
-    "Pasted image 20240731160314.png",
-    "Pasted image 20240731160102.png",
-    "Pasted image 20240731155926.png",
-    "计算机/人工智能/人工智能应用/AI 文生图-漫画、三维作品.md",
-    "计算机/人工智能/人工智能应用/AI 文生图-MJ.md",
-    "Excalidraw/Drawing 2024-07-31 14.23.19.excalidraw.md",
-    "计算机/人工智能/人工智能应用/AI 文生图-艺术画提示词.md",
-    "计算机/软件开发/前端/node 常见问题.md",
+    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
+    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ.md",
+    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ.docx",
+    "计算机/人工智能/人工智能应用/智能PPT生成/总览.md",
+    "Pasted image 20240731173312.png",
+    "Pasted image 20240731173202.png",
+    "Pasted image 20240731172814.png",
+    "Pasted image 20240731172737.png",
+    "Pasted image 20240731172528.png",
+    "Pasted image 20240731172500.png",
+    "Pasted image 20240731172430.png",
+    "Pasted image 20240731172043.png",
+    "Pasted image 20240731171959.png",
+    "Pasted image 20240731171540.png",
+    "计算机/软件开发/前端/前端.md",
+    "计算机/软件开发/前端/技术/js/js知识汇总.md",
+    "计算机/软件开发/前端/技术/js/工具方法.md",
     "计算机/人工智能/人工智能应用/总览.md",
+    "计算机/人工智能/人工智能应用/智能PPT生成",
+    "计算机/人工智能/人工智能应用/文生图-MJ",
+    "Excalidraw/Drawing 2024-07-31 14.23.19.excalidraw.md",
+    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-艺术画提示词.md",
+    "计算机/软件开发/前端/node 常见问题.md",
     "计算机/软件开发/工具/git.md",
     "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
     "计算机/软件开发/前端/技术/vue/vue3知识汇总.md",
     "计算机/软件开发/前端/技术/uniapp/大文件分片上传.md",
     "计算机/软件开发/前端/技术/css/less.md",
     "计算机/软件开发/前端/技术/echarts/echarts图表.md",
-    "计算机/软件开发/前端/技术/js/js知识汇总.md",
-    "计算机/软件开发/前端/技术/js/工具方法.md",
     "人力资源/人才画像.md",
     "计算机/计算机基础.md",
     "计算机/计算机工程.md",
@@ -186,8 +190,6 @@
     "Excalidraw/Drawing 2023-11-14 18.29.42.excalidraw.md",
     "未命名 1.canvas",
     "小说主题.canvas",
-    "npm.md",
-    "webpack知识汇总.md",
     "未命名.canvas",
     "计算机/软件开发/前端/技术/uniapp",
     "计算机/软件开发/工具",
@@ -196,9 +198,6 @@
     "Excalidraw/未命名.canvas",
     "记录",
     "计算机",
-    "计算机/软件开发/UI",
-    "计算机/软件开发",
-    "计算机/软件开发/后端",
     "未命名 2.canvas",
     "google account.canvas",
     "obsidian-account.canvas"
