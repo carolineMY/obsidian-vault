@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "76e7cfc792d4d3d4",
+        "id": "c46b04a276504569",
         "type": "tabs",
         "children": [
           {
-            "id": "81eb743d92465c95",
+            "id": "53146f3c36c30943",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "计算机/人工智能/人工智能应用/AI 文生图-摄影提示词.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机/人工智能/人工智能应用/AI 文生图-摄影提示词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机/人工智能/人工智能应用/AI 文生图-摄影提示词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机/人工智能/人工智能应用/AI 文生图-摄影提示词.md"
+              }
             }
           }
         ]
@@ -141,22 +147,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "81eb743d92465c95",
+  "active": "53146f3c36c30943",
   "lastOpenFiles": [
+    "Pasted image 20240731134541.png",
+    "Pasted image 20240731134039.png",
+    "Pasted image 20240731133812.png",
+    "Pasted image 20240731133141.png",
+    "Pasted image 20240731132748.png",
+    "Pasted image 20240731132622.png",
+    "Pasted image 20240731132335.png",
+    "Pasted image 20240731132056.png",
+    "Pasted image 20240731131732.png",
+    "Pasted image 20240731131457.png",
+    "Pasted image 20240731130817.png",
     "计算机/人工智能/人工智能应用/AI 文生图-摄影提示词.md",
     "计算机/人工智能/人工智能应用/AI 文生图-漫画、三维作品.md",
-    "计算机/软件开发/前端/node 常见问题.md",
-    "Pasted image 20240730200123.png",
-    "Pasted image 20240730200114.png",
-    "Pasted image 20240730200102.png",
-    "Pasted image 20240730200047.png",
-    "Pasted image 20240730200036.png",
-    "Pasted image 20240730200001.png",
-    "Pasted image 20240730195924.png",
-    "Pasted image 20240730195849.png",
-    "Pasted image 20240730195834.png",
-    "Pasted image 20240730195739.png",
     "计算机/人工智能/人工智能应用/AI 文生图-艺术画提示词.md",
+    "计算机/软件开发/前端/node 常见问题.md",
     "计算机/人工智能/人工智能应用/总览.md",
     "计算机/软件开发/工具/git.md",
     "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
@@ -183,7 +190,6 @@
     "未命名.canvas",
     "Drawing 2024-01-22 09.13.42.excalidraw.md",
     "计算机/软件开发/前端/技术/uniapp",
-    "计算机/软件开发/前端/开发工具.md",
     "计算机/软件开发/工具",
     "书籍",
     "人力资源",
