@@ -14,8 +14,6 @@
 ![[Pasted image 20240730144028.png]]
 （1）高速摄影 （Highspeed photography）粉末爆炸、水花
 ![[Pasted image 20240730151500.png]]
-![[]]
-
 （2）、缓慢运动 （Slow movement）
 ![[Pasted image 20240730151548.png]]
 
