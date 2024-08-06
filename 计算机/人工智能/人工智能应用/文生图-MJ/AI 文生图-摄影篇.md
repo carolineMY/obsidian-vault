@@ -1,14 +1,4 @@
-## MJ设置
-![[Pasted image 20240731150536.png]]
 
-
-![[Pasted image 20240731150437.png]]
-
-
-![[Pasted image 20240731150614.png]]
-
-
-## 一、摄影作品
 ### 1、提示词固定句式
 ![[Pasted image 20240730144314.png]]
 注意：某个词排序要靠前，对于画面的影响越大
@@ -289,7 +279,4 @@ best quality,ultra detailed,16k --ar 16:9
 
 ~~Photography by Tousuf Karsh,Full body shot,~~ a young man, in the forest,radient,DSLR --ar 4:3
 ![[Pasted image 20240731145902.png]]
-## 二、艺术作品
 
-
-## 三、漫画、三维作品

@@ -11,12 +11,8 @@
             "id": "8b1753cc16282f74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机/人工智能/人工智能应用/智能PPT生成/总览.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/智能PPT生成/总览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/智能PPT生成/总览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/智能PPT生成/总览.md"
+                "file": "Drawing 2024-01-22 09.13.42.excalidraw.md"
               }
             }
           }
@@ -147,58 +141,57 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8b1753cc16282f74",
+  "active": "2274d30ea099b4d9",
   "lastOpenFiles": [
-    "Pasted image 20240801120932.png",
-    "Pasted image 20240801120654.png",
-    "Pasted image 20240801120522.png",
-    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ 总览.md",
-    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
+    "obsidian 文档.canvas",
+    "Excalidraw/Drawing 2024-07-31 14.23.19.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
+    "记录/DR-account.md",
+    "小说主题.canvas",
+    "未命名 1.canvas",
     "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-摄影篇.md",
+    "计算机/软件开发/前端/npm.md",
+    "计算机/软件开发/前端/webpack知识汇总.md",
+    "记录/imgs/Pasted image 20240730113331.png",
+    "记录/imgs",
+    "记录/新建文件夹",
+    "计算机/人工智能/人工智能应用/文生图-MJ/imgs/1722340167849.png",
+    "计算机/人工智能/人工智能应用/文生图-MJ/imgs/1722340525507.png",
+    "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801120932.png",
+    "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801120654.png",
+    "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801120522.png",
+    "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801095148.png",
+    "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801094730.png",
+    "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801094437.png",
+    "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801093451.png",
+    "计算机/人工智能/人工智能应用/智能PPT生成/imgs",
+    "计算机/人工智能/人工智能应用/智能PPT生成/新建文件夹",
+    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ 总览.md",
+    "计算机/人工智能/人工智能应用/文生图-MJ/imgs",
+    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
     "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-艺术绘画篇.md",
+    "计算机/软件开发/前端/node 常见问题.md",
+    "计算机/软件开发/前端/前端开发前置准备.md",
+    "计算机/软件开发/前端/前端环境配置.md",
+    "计算机/软件开发/前端/技术/echarts/echarts图表.md",
+    "计算机/软件开发/前端/技术/uniapp/大文件分片上传.md",
     "计算机/人工智能/人工智能应用/智能PPT生成/总览.md",
-    "Pasted image 20240801095148.png",
-    "Pasted image 20240801094730.png",
-    "Pasted image 20240801094437.png",
-    "Pasted image 20240801093451.png",
-    "Pasted image 20240801093114.png",
-    "Pasted image 20240801092959.png",
-    "Pasted image 20240801092854.png",
-    "Pasted image 20240801092813.png",
-    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ.docx",
-    "计算机/软件开发/前端/前端.md",
+    "计算机/软件开发/前端/技术/vue/vue3知识汇总.md",
     "计算机/软件开发/前端/技术/js/js知识汇总.md",
     "计算机/软件开发/前端/技术/js/工具方法.md",
+    "记录/account.md",
+    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ.docx",
+    "计算机/软件开发/前端/前端.md",
     "计算机/人工智能/人工智能应用/总览.md",
     "计算机/人工智能/人工智能应用/智能PPT生成",
     "计算机/人工智能/人工智能应用/文生图-MJ",
-    "Excalidraw/Drawing 2024-07-31 14.23.19.excalidraw.md",
-    "计算机/软件开发/前端/node 常见问题.md",
     "计算机/软件开发/工具/git.md",
-    "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
-    "计算机/软件开发/前端/技术/vue/vue3知识汇总.md",
-    "计算机/软件开发/前端/技术/uniapp/大文件分片上传.md",
     "计算机/软件开发/前端/技术/css/less.md",
-    "计算机/软件开发/前端/技术/echarts/echarts图表.md",
     "人力资源/人才画像.md",
     "计算机/计算机基础.md",
-    "计算机/计算机工程.md",
-    "计算机/人工智能/人工智能技术.md",
-    "计算机/人工智能/人工智能.md",
     "计算机/人工智能/人工智能应用",
-    "记录/DR-account.md",
-    "记录/account.md",
-    "计算机/软件开发/前端/技术/css/sass.md",
-    "未命名 1.canvas",
-    "小说主题.canvas",
-    "未命名.canvas",
     "计算机/软件开发/前端/技术/uniapp",
-    "计算机/软件开发/工具",
-    "书籍",
-    "人力资源",
     "Excalidraw/未命名.canvas",
-    "记录",
-    "计算机",
     "未命名 2.canvas",
     "google account.canvas",
     "obsidian-account.canvas"

@@ -5,7 +5,9 @@ zhao zhaozhao
 admin dRzx@2)@2
 
 测试环境-evaluation-UI 包放的服务地址：
-![[Pasted image 20240730113331.png]]
+101.133.150.249
+账号：root wisevirtue.Com
+路径：/root/application/evaluation-ui
 
 开发：zhao 123456
 pdf - request 报告转pdf
