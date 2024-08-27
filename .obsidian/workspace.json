@@ -11,8 +11,12 @@
             "id": "8b1753cc16282f74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "记录/account.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "记录/account.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "记录/account.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2024-01-22 09.13.42.excalidraw.md"
+                "file": "记录/account.md"
               }
             }
           }
@@ -143,16 +149,19 @@
   },
   "active": "2274d30ea099b4d9",
   "lastOpenFiles": [
+    "记录/DR-account.md",
+    "记录/imgs/Pasted image 20240730113331.png",
+    "记录/DR-需求记录.md",
+    "记录/account.md",
+    "计算机/软件开发/产品设计.md",
     "obsidian 文档.canvas",
     "Excalidraw/Drawing 2024-07-31 14.23.19.excalidraw.md",
     "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
-    "记录/DR-account.md",
     "小说主题.canvas",
     "未命名 1.canvas",
     "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-摄影篇.md",
     "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/前端/webpack知识汇总.md",
-    "记录/imgs/Pasted image 20240730113331.png",
     "记录/imgs",
     "记录/新建文件夹",
     "计算机/人工智能/人工智能应用/文生图-MJ/imgs/1722340167849.png",
@@ -179,7 +188,6 @@
     "计算机/软件开发/前端/技术/vue/vue3知识汇总.md",
     "计算机/软件开发/前端/技术/js/js知识汇总.md",
     "计算机/软件开发/前端/技术/js/工具方法.md",
-    "记录/account.md",
     "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ.docx",
     "计算机/软件开发/前端/前端.md",
     "计算机/人工智能/人工智能应用/总览.md",
@@ -187,8 +195,6 @@
     "计算机/人工智能/人工智能应用/文生图-MJ",
     "计算机/软件开发/工具/git.md",
     "计算机/软件开发/前端/技术/css/less.md",
-    "人力资源/人才画像.md",
-    "计算机/计算机基础.md",
     "计算机/人工智能/人工智能应用",
     "计算机/软件开发/前端/技术/uniapp",
     "Excalidraw/未命名.canvas",
