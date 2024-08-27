@@ -1,6 +1,6 @@
-1、从淘宝镜像源下载包
+1、使用淘宝镜像源
 ```text
-npm config set registry http://registry.npmmirror.com
+npm config set registry http://registry.npm.taobao.org
 ```
 2、当前安装使用淘宝镜像源下载
 ```text
