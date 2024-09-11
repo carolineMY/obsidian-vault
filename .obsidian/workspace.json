@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/软件开发/前端/多端开发.md",
+                "file": "计算机/软件开发/前端/技术/js/js知识汇总.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/软件开发/前端/多端开发.md",
+                "file": "计算机/软件开发/前端/技术/js/js知识汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/软件开发/前端/多端开发.md",
+                "file": "计算机/软件开发/前端/技术/js/js知识汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/软件开发/前端/多端开发.md"
+                "file": "计算机/软件开发/前端/技术/js/js知识汇总.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "8b1753cc16282f74",
   "lastOpenFiles": [
+    "计算机/软件开发/前端/技术/js/工具方法.md",
+    "计算机/软件开发/前端/多端开发.md",
     "计算机/软件开发/前端/imgs/Pasted image 20240827103911.png",
     "计算机/软件开发/前端/imgs",
     "计算机/软件开发/前端/开发工具.md",
@@ -167,7 +169,6 @@
     "计算机/软件开发/前端/node 常见问题.md",
     "计算机/软件开发/前端/前端开发前置准备.md",
     "计算机/软件开发/前端/前端环境配置.md",
-    "计算机/软件开发/前端/多端开发.md",
     "计算机/软件开发/前端/技术/vue/vue封装el-dialog等反馈组件hook.md",
     "计算机/软件开发/前端/技术/vue/vue3知识汇总.md",
     "计算机/软件开发/前端/技术/vue/vue2.md",
@@ -189,7 +190,6 @@
     "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801095148.png",
     "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801094730.png",
     "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801094437.png",
-    "计算机/人工智能/人工智能应用/智能PPT生成/imgs/Pasted image 20240801093451.png",
     "计算机/人工智能/人工智能应用/智能PPT生成/imgs",
     "计算机/人工智能/人工智能应用/智能PPT生成/新建文件夹",
     "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-MJ 总览.md",
