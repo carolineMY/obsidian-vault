@@ -11,11 +11,9 @@
             "id": "8b1753cc16282f74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "记录/DR-account.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "记录/DR-account.md",
+                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "记录/DR-account.md",
+                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "记录/DR-account.md"
+                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md"
               }
             }
           }
@@ -149,6 +147,12 @@
   },
   "active": "8b1753cc16282f74",
   "lastOpenFiles": [
+    "Excalidraw/办公助手.md",
+    "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
+    "obsidian 文档.canvas",
+    "小说主题.canvas",
+    "计算机/软件开发/产品设计.md",
+    "记录/DR-account.md",
     "记录/account.md",
     "计算机/软件开发/前端/技术/js/js知识汇总.md",
     "计算机/软件开发/前端/技术/js/工具方法.md",
@@ -158,14 +162,9 @@
     "计算机/软件开发/前端/开发工具.md",
     "计算机/软件开发/前端/前端.md",
     "计算机/软件开发/工具/fiddler抓包工具.md",
-    "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
     "Taro.md",
-    "obsidian 文档.canvas",
-    "小说主题.canvas",
     "人力资源/人才画像.md",
-    "记录/DR-account.md",
     "计算机/软件开发/软件.md",
-    "计算机/软件开发/产品设计.md",
     "计算机/软件开发/前端/webpack知识汇总.md",
     "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/前端/node 常见问题.md",
@@ -180,7 +179,6 @@
     "记录/DR-需求记录.md",
     "Excalidraw/Drawing 2024-07-31 14.23.19.excalidraw.md",
     "未命名 1.canvas",
-    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-摄影篇.md",
     "记录/imgs",
     "记录/新建文件夹",
     "计算机/人工智能/人工智能应用/文生图-MJ/imgs/1722340167849.png",
