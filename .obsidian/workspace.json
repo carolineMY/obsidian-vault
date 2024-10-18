@@ -13,11 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md"
+                "file": "Excalidraw/办公助手.md"
+              }
+            }
+          },
+          {
+            "id": "2d86112c4bcf1cb3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/测评点数.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
+                "file": "Excalidraw/测评点数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
+                "file": "Excalidraw/测评点数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md"
+                "file": "Excalidraw/测评点数.md"
               }
             }
           }
@@ -145,10 +156,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8b1753cc16282f74",
+  "active": "2d86112c4bcf1cb3",
   "lastOpenFiles": [
+    "Excalidraw/Q&A.md",
     "Excalidraw/办公助手.md",
-    "Excalidraw/Drawing 2024-04-02 15.55.47.excalidraw.md",
+    "Excalidraw/测评点数.md",
     "obsidian 文档.canvas",
     "小说主题.canvas",
     "计算机/软件开发/产品设计.md",
@@ -177,7 +189,6 @@
     "计算机/软件开发/前端/技术/echarts/echarts图表.md",
     "记录/imgs/Pasted image 20240730113331.png",
     "记录/DR-需求记录.md",
-    "Excalidraw/Drawing 2024-07-31 14.23.19.excalidraw.md",
     "未命名 1.canvas",
     "记录/imgs",
     "记录/新建文件夹",
