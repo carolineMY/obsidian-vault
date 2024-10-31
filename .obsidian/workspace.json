@@ -14,7 +14,9 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/办公助手.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "办公助手"
             }
           },
           {
@@ -24,11 +26,25 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/测评点数.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "测评点数"
+            }
+          },
+          {
+            "id": "57c3d8993aeb5e57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +64,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -63,7 +81,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -71,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/测评点数.md",
+                "file": "Excalidraw/办公助手.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "办公助手 的反向链接列表"
             }
           },
           {
@@ -111,10 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/测评点数.md",
+                "file": "Excalidraw/办公助手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "办公助手 的出链列表"
             }
           },
           {
@@ -125,7 +151,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -134,8 +162,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/测评点数.md"
-              }
+                "file": "Excalidraw/办公助手.md"
+              },
+              "icon": "lucide-list",
+              "title": "办公助手 的大纲"
             }
           }
         ]
@@ -156,7 +186,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2d86112c4bcf1cb3",
+  "active": "57c3d8993aeb5e57",
   "lastOpenFiles": [
     "Excalidraw/Q&A.md",
     "Excalidraw/办公助手.md",
