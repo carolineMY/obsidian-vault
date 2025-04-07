@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "AI智能体 工作流"
             }
+          },
+          {
+            "id": "f33f4cd85a362ba0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101130250.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241101130250"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI智能体 工作流.md",
+                "file": "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101130250.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AI智能体 工作流 的反向链接列表"
+              "title": "Pasted image 20241101130250 的反向链接列表"
             }
           },
           {
@@ -112,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI智能体 工作流.md",
+                "file": "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101130250.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "AI智能体 工作流 的出链列表"
+              "title": "Pasted image 20241101130250 的出链列表"
             }
           },
           {
@@ -139,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/AI智能体 工作流.md"
+                "file": "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101130250.png"
               },
               "icon": "lucide-list",
-              "title": "AI智能体 工作流 的大纲"
+              "title": "Pasted image 20241101130250 的大纲"
             }
           }
         ]
@@ -163,12 +176,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fc0ea6c1aadb6982",
+  "active": "f33f4cd85a362ba0",
   "lastOpenFiles": [
+    "计算机/人工智能/人工智能应用/AI智能体 工作流.md",
+    "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101134816.png",
+    "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101114352.png",
+    "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101114343.png",
+    "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101114229.png",
     "计算机/人工智能/人工智能.md",
     "计算机/人工智能/人工智能应用/智能PPT生成/总览.md",
     "记录/account.md",
-    "计算机/人工智能/人工智能应用/AI智能体 工作流.md",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101140011.png",
     "Excalidraw/Drawing 2024-11-01 13.49.54.excalidraw.md",
     "Excalidraw/imgs/Pasted Image 20241101135656_380.png",
@@ -176,13 +193,9 @@
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101135503.png",
     "Excalidraw/未命名.canvas",
     "Excalidraw/未命名.md",
-    "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101134816.png",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101132717.png",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101131327.png",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101130428.png",
-    "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101130250.png",
-    "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101130235.png",
-    "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101120616.png",
     "计算机/人工智能/人工智能应用/imgs",
     "计算机/人工智能/人工智能技术.md",
     "计算机/软件开发/产品设计.md",
