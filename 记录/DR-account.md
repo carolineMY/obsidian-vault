@@ -27,3 +27,8 @@ curl --location 'http://192.168.10.13:3100/forms/chromium/convert/url' \
  
 3、卷王 
 drzx drzx2023
+
+4、各位伙伴大家好，邮箱的用户名及密码规则：  
+账号：姓的全拼+名的首拼@wisevirtue.com  
+例：钟宇嘉（maoy@wisevirtue.com）  
+初始密码是：Welcome001
