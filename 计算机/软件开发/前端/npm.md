@@ -11,3 +11,6 @@ npm install --registry=http://registry.npmmirror.com
 ```text
 npm config get registry
 ```
+
+4、查看某个包的版本
+npm view uview-plus versions
