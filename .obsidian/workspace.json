@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "DR-account"
             }
+          },
+          {
+            "id": "d51272d245100763",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -163,7 +177,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fc0ea6c1aadb6982",
+  "active": "d51272d245100763",
   "lastOpenFiles": [
     "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/前端/mock数据.md",
