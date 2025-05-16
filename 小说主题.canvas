@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"254ccd452ad79eea","x":-243,"y":-291,"width":250,"height":60,"type":"text","text":"穿到3000年后的地球"}
+		{"id":"c2fa85aeb46e4ebf","x":-243,"y":-291,"width":250,"height":60,"type":"text","text":""},
+		{"id":"254ccd452ad79eea","type":"text","text":"穿到3000年后的地球","x":-243,"y":-291,"width":250,"height":60,"color":"5"}
 	],
 	"edges":[]
 }

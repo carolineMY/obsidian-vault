@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cd87b68fed13924f","type":"text","text":"AI快速学英语口语","x":-6520,"y":-660,"width":250,"height":60,"color":"1"},
+		{"id":"95ca17f60f6d9a4f","type":"text","text":"你说我拼","x":-6520,"y":-460,"width":250,"height":50,"color":"3"},
+		{"id":"747bae0452ab5f5d","x":-6250,"y":-440,"width":250,"height":60,"color":"2","type":"text","text":"大国重器"},
+		{"id":"47c1d4ddfe0b74a9","x":-6470,"y":-360,"width":400,"height":400,"type":"file","file":"计算机/人工智能/人工智能应用/战斗机器/中国机器总览.md"}
+	],
+	"edges":[]
+}
