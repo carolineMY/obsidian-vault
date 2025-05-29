@@ -11,33 +11,17 @@
             "id": "270754d216665542",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "obsidian 文档.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "计算机/软件开发/前端/npm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "obsidian 文档"
-            }
-          },
-          {
-            "id": "a3f46aa30d37e3a0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "npm"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,12 +164,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a3f46aa30d37e3a0",
+  "active": "270754d216665542",
   "lastOpenFiles": [
+    "obsidian 文档.canvas",
     "hobby.canvas",
     "小说主题.canvas",
     "Excalidraw/办公助手.md",
-    "obsidian 文档.canvas",
     "计算机/人工智能/人工智能应用/AI智能体 工作流.md",
     "2025-05-16.md",
     "未命名.md",
