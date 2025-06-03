@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4745eaa33affe4cd",
+        "id": "aecd3541d0eda270",
         "type": "tabs",
         "children": [
           {
-            "id": "e650d0f5004425f6",
+            "id": "f584dcc7abd56d16",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "hobby.canvas",
-                "viewState": {
-                  "x": -6260,
-                  "y": -310,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "hobby"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -167,11 +160,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e650d0f5004425f6",
+  "active": "f584dcc7abd56d16",
   "lastOpenFiles": [
+    "未命名.md",
+    "计算机/人工智能/人工智能应用/AI学英语/英语学习量化目标.md",
+    "obsidian 文档.canvas",
+    "hobby.canvas",
     "小说主题.canvas",
     "计算机/人工智能/人工智能应用/AI学英语/学习计划.md",
-    "计算机/人工智能/人工智能应用/AI学英语/英语学习量化目标.md",
     "计算机/人工智能/人工智能应用/AI学英语/英语学习目标与执行计划.md",
     "计算机/人工智能/人工智能应用/AI学英语/每日学习计划.md",
     "计算机/人工智能/人工智能应用/AI学英语/03听力/听喜欢的歌/未命名.md",
@@ -185,14 +181,11 @@
     "计算机/人工智能/人工智能应用/AI学英语/02口语",
     "计算机/人工智能/人工智能应用/AI学英语/语法.md",
     "计算机/人工智能/人工智能应用/AI学英语/01语法",
-    "hobby.canvas",
     "计算机/人工智能/人工智能应用/AI学英语",
-    "obsidian 文档.canvas",
     "计算机/软件开发/前端/npm.md",
     "Excalidraw/办公助手.md",
     "计算机/人工智能/人工智能应用/AI智能体 工作流.md",
     "2025-05-16.md",
-    "未命名.md",
     "计算机/人工智能/人工智能应用/战斗机器/中国机器总览.md",
     "计算机/人工智能/人工智能应用/战斗机器",
     "计算机/软件开发/前端/webpack知识汇总.md",
