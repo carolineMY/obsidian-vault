@@ -1,9 +1,16 @@
 {
 	"nodes":[
-		{"id":"cd87b68fed13924f","type":"text","text":"AI快速学英语口语","x":-6520,"y":-660,"width":250,"height":60,"color":"1"},
-		{"id":"95ca17f60f6d9a4f","type":"text","text":"你说我拼","x":-6520,"y":-460,"width":250,"height":50,"color":"3"},
-		{"id":"747bae0452ab5f5d","x":-6250,"y":-440,"width":250,"height":60,"color":"2","type":"text","text":"大国重器"},
-		{"id":"47c1d4ddfe0b74a9","x":-6470,"y":-360,"width":400,"height":400,"type":"file","file":"计算机/人工智能/人工智能应用/战斗机器/中国机器总览.md"}
+		{"id":"cd87b68fed13924f","type":"text","text":"AI快速学英语口语","x":-6720,"y":-740,"width":250,"height":60,"color":"1"},
+		{"id":"95ca17f60f6d9a4f","type":"text","text":"你说我拼","x":-6720,"y":-640,"width":250,"height":50,"color":"3"},
+		{"id":"747bae0452ab5f5d","type":"text","text":"大国重器","x":-6720,"y":-500,"width":250,"height":60,"color":"2"},
+		{"id":"47c1d4ddfe0b74a9","type":"file","file":"计算机/人工智能/人工智能应用/战斗机器/中国机器总览.md","x":-6360,"y":-550,"width":400,"height":220,"color":"3"},
+		{"id":"217c10bc754c9fad","x":-6720,"y":-280,"width":250,"height":60,"color":"1","type":"text","text":"**写前端代码**："},
+		{"id":"a30a55fd9f6c3a0c","x":-6400,"y":-280,"width":250,"height":60,"color":"2","type":"text","text":"1、使用deepseek输出前端代码智能体"},
+		{"id":"c3483f7d2ad56dbe","type":"text","text":"2、自定义流程：分析高保真=>输出交互=》检查交互=》根据交互+高保真+基础蓝湖代码生成基础代码","x":-6400,"y":-140,"width":250,"height":140,"color":"3"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"fe2dde4edf409f6e","fromNode":"747bae0452ab5f5d","fromSide":"right","toNode":"47c1d4ddfe0b74a9","toSide":"left"},
+		{"id":"a1bab4227ab72c41","fromNode":"217c10bc754c9fad","fromSide":"right","toNode":"a30a55fd9f6c3a0c","toSide":"left"},
+		{"id":"43635da2bc7ce92e","fromNode":"217c10bc754c9fad","fromSide":"bottom","toNode":"c3483f7d2ad56dbe","toSide":"left"}
+	]
 }
