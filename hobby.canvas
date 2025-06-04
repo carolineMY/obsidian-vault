@@ -8,7 +8,8 @@
 		{"id":"a30a55fd9f6c3a0c","type":"text","text":"1、使用deepseek输出前端代码智能体","x":-6400,"y":-280,"width":250,"height":60,"color":"2"},
 		{"id":"c3483f7d2ad56dbe","type":"text","text":"2、自定义流程：分析高保真=>输出交互=》检查交互=》根据交互+高保真+基础蓝湖代码生成基础代码","x":-6400,"y":-140,"width":250,"height":140,"color":"3"},
 		{"id":"8943ca68dcb4ef3e","type":"text","text":"cline+context7","x":-6680,"y":120,"width":250,"height":60},
-		{"id":"67bb966c05f45777","type":"text","text":"用于优化与 Cursor AI协作的工具集[cursor rules github项目](https://github.com/bmadcode/cursor-custom-agents-rules-generator)","x":-6680,"y":220,"width":300,"height":80}
+		{"id":"67bb966c05f45777","type":"text","text":"用于优化与 Cursor AI协作的工具集[cursor rules github项目](https://github.com/bmadcode/cursor-custom-agents-rules-generator)","x":-6680,"y":220,"width":300,"height":80},
+		{"id":"f0b52583f59afb63","x":-6680,"y":340,"width":300,"height":80,"color":"2","type":"text","text":"codebuddy 腾讯开发的代码辅助插件，中国版cursor"}
 	],
 	"edges":[
 		{"id":"fe2dde4edf409f6e","fromNode":"747bae0452ab5f5d","fromSide":"right","toNode":"47c1d4ddfe0b74a9","toSide":"left"},
