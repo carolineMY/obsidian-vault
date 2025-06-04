@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aecd3541d0eda270",
+        "id": "738eea9e3bb05f81",
         "type": "tabs",
         "children": [
           {
-            "id": "f584dcc7abd56d16",
+            "id": "56291f47d708466a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "canvas",
+              "state": {
+                "file": "hobby.canvas",
+                "viewState": {
+                  "x": -6555,
+                  "y": 84,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "hobby"
             }
           }
         ]
@@ -160,7 +167,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f584dcc7abd56d16",
+  "active": "56291f47d708466a",
   "lastOpenFiles": [
     "未命名.md",
     "计算机/人工智能/人工智能应用/AI学英语/英语学习量化目标.md",
