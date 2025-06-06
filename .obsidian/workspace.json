@@ -11,14 +11,17 @@
             "id": "56291f47d708466a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
-                "mode": "source",
-                "source": false
+                "file": "hobby.canvas",
+                "viewState": {
+                  "x": -6184.912359550562,
+                  "y": -507.6178061244292,
+                  "zoom": -0.6322175076273069
+                }
               },
-              "icon": "lucide-file",
-              "title": "03_生成svg设计稿"
+              "icon": "lucide-layout-dashboard",
+              "title": "hobby"
             }
           }
         ]
@@ -166,9 +169,9 @@
   },
   "active": "56291f47d708466a",
   "lastOpenFiles": [
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/02_生成html设计稿.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/01_生成html设计稿.md",
-    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
     "hobby.canvas",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词",
     "计算机/人工智能/人工智能应用/cursor使用",
