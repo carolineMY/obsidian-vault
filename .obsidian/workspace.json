@@ -11,17 +11,14 @@
             "id": "56291f47d708466a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "hobby.canvas",
-                "viewState": {
-                  "x": -6367.5,
-                  "y": -513.2224719101124,
-                  "zoom": -0.9655508409606401
-                }
+                "file": "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "hobby"
+              "icon": "lucide-file",
+              "title": "03_生成svg设计稿"
             }
           }
         ]
@@ -169,8 +166,13 @@
   },
   "active": "56291f47d708466a",
   "lastOpenFiles": [
-    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/02_生成html设计稿.md",
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/01_生成html设计稿.md",
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
     "hobby.canvas",
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词",
+    "计算机/人工智能/人工智能应用/cursor使用",
+    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
     "使用cursor开发工作流.md",
     "未命名.md",
     "计算机/人工智能/人工智能应用/AI学英语/英语学习量化目标.md",
@@ -208,17 +210,12 @@
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101114352.png",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101114343.png",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101114229.png",
-    "计算机/人工智能/人工智能.md",
-    "计算机/人工智能/人工智能应用/智能PPT生成/总览.md",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101140011.png",
-    "Excalidraw/Drawing 2024-11-01 13.49.54.excalidraw.md",
     "Excalidraw/imgs/Pasted Image 20241101135656_380.png",
-    "Excalidraw/imgs",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101135503.png",
     "Excalidraw/未命名.canvas",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101132717.png",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101131327.png",
-    "计算机/人工智能/人工智能应用/imgs",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "google account.canvas",
