@@ -11,17 +11,14 @@
             "id": "56291f47d708466a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "hobby.canvas",
-                "viewState": {
-                  "x": -6555,
-                  "y": 363,
-                  "zoom": 0
-                }
+                "file": "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "hobby"
+              "icon": "lucide-file",
+              "title": "AI 文生图-漫画、三维作品"
             }
           }
         ]
@@ -169,8 +166,8 @@
   },
   "active": "56291f47d708466a",
   "lastOpenFiles": [
-    "使用cursor开发工作流.md",
     "hobby.canvas",
+    "使用cursor开发工作流.md",
     "未命名.md",
     "计算机/人工智能/人工智能应用/AI学英语/英语学习量化目标.md",
     "obsidian 文档.canvas",
