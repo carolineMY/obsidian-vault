@@ -11,10 +11,10 @@
 		{"id":"67bb966c05f45777","type":"text","text":"用于优化与 Cursor AI协作的工具集[cursor rules github项目](https://github.com/bmadcode/cursor-custom-agents-rules-generator)","x":-6680,"y":220,"width":300,"height":80},
 		{"id":"f0b52583f59afb63","type":"text","text":"codebuddy 腾讯开发的代码辅助插件，中国版cursor","x":-6680,"y":340,"width":300,"height":80,"color":"2"},
 		{"id":"8c9c224a9b1c2234","type":"text","text":"cursor + dify [使用cursor开发工作流](https://mp.weixin.qq.com/s?__biz=MzU5Njg3ODUzOA==&mid=2247488422&idx=1&sn=4dbc7f1e515e5394e5598979af11ff4f&scene=21#wechat_redirect)","x":-6680,"y":480,"width":250,"height":60,"color":"1"},
-		{"id":"ae7423d1bc2b5b51","x":-6680,"y":580,"width":250,"height":60,"color":"4","type":"text","text":"cursor + figma mcp [开发网站](https://zhuanlan.zhihu.com/p/1897363183783633320)"},
-		{"id":"60c7e3effc45d8e8","x":-6400,"y":-740,"width":250,"height":60,"color":"1","type":"text","text":"一天推一漫（剪映+podo+概括+动起来？）"},
+		{"id":"ae7423d1bc2b5b51","type":"text","text":"cursor + figma mcp [开发网站](https://zhuanlan.zhihu.com/p/1897363183783633320)","x":-6680,"y":580,"width":250,"height":60,"color":"4"},
+		{"id":"60c7e3effc45d8e8","type":"text","text":"一天推一漫（剪映+podo+概括+动起来？）","x":-6400,"y":-740,"width":250,"height":60,"color":"1"},
 		{"id":"5e6a8fa05cde8c22","type":"text","text":"AI做个小游戏","x":-6775,"y":-880,"width":250,"height":60,"color":"1"},
-		{"id":"f0c5cf9c4953c6dc","type":"text","text":"AI做个小游戏","x":-6485,"y":-940,"width":250,"height":60,"color":"1"}
+		{"id":"f0c5cf9c4953c6dc","type":"text","text":"免费漫画软件","x":-6485,"y":-940,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"fe2dde4edf409f6e","fromNode":"747bae0452ab5f5d","fromSide":"right","toNode":"47c1d4ddfe0b74a9","toSide":"left"},
