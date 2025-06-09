@@ -11,17 +11,14 @@
             "id": "56291f47d708466a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "hobby.canvas",
-                "viewState": {
-                  "x": -6184.912359550562,
-                  "y": -507.6178061244292,
-                  "zoom": -0.6322175076273069
-                }
+                "file": "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/04_分析内容创建设计稿.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "hobby"
+              "icon": "lucide-file",
+              "title": "04_分析内容创建设计稿"
             }
           }
         ]
@@ -170,8 +167,9 @@
   "active": "56291f47d708466a",
   "lastOpenFiles": [
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
-    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/02_生成html设计稿.md",
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/04_分析内容创建设计稿.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/01_生成html设计稿.md",
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/02_生成html设计稿.md",
     "hobby.canvas",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词",
     "计算机/人工智能/人工智能应用/cursor使用",
@@ -207,7 +205,6 @@
     "计算机/软件开发/前端/mock数据.md",
     "计算机/软件开发/前端/前端开发前置准备.md",
     "记录/account.md",
-    "记录/DR-account.md",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101130250.png",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101134816.png",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101114352.png",
