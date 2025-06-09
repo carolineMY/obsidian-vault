@@ -26,7 +26,15 @@ git cherry-pick 4a2f8a1465b3d94b5ad80d7b4fc6abb09d6f5831 拉取某次提交到�
 
 git push origin release/1.1.1 -u  本地仓库关联到远程仓库
 
-git log --author=Caroline --since=2023-01-01 --until=2023-12-26 --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }'
+git log --since="2023-01-01" --until="2023-12-31" 查询 2023-01-01 到 2023-12-31 的提交
+
+git log --since="2023-01-01" --until="2023-12-31" --oneline 简化输出（单行显示）
+
+git log --since="2023-01-01" --author="user@example.com" 按作者过滤（例如邮箱）
+
+git log --author=Caroline --since=2022-01-01 --until=2025-12-26 --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }'
+
+git log --author=Soda --since=2022-01-01 --until=2025-12-26 --pretty=tformat: --numstat | awk '{ add += $1; subs += $2; loc += $1 - $2 } END { printf "added lines: %s, removed lines: %s, total lines: %s\n", add, subs, loc }'
 查询某段时间代码提交记录
 
 git checkout -b dev --track origin/dev 创建本地分支dev,并关联到远程分支origin/dev
