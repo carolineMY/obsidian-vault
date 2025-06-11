@@ -11,14 +11,17 @@
             "id": "570ec80cb17f91bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/test.md",
-                "mode": "source",
-                "source": false
+                "file": "hobby.canvas",
+                "viewState": {
+                  "x": -6525.515723316976,
+                  "y": 367.50759001164045,
+                  "zoom": 0.5573849785914714
+                }
               },
-              "icon": "lucide-file",
-              "title": "test"
+              "icon": "lucide-layout-dashboard",
+              "title": "hobby"
             }
           }
         ]
@@ -166,11 +169,11 @@
   },
   "active": "570ec80cb17f91bb",
   "lastOpenFiles": [
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/test.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/02_生成html设计稿.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/04_分析内容创建设计稿.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/01_生成html设计稿.md",
-    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/test.md",
     "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
     "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/工具/git.md",
