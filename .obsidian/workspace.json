@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69d7fbfb2dd60e19",
+        "id": "9890fac863046cae",
         "type": "tabs",
         "children": [
           {
-            "id": "a51db3063ea43e6e",
+            "id": "a18ed2148e7f1a9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "记录/候选人面试定位逻辑.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "候选人面试定位逻辑"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,17 +161,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a51db3063ea43e6e",
+  "active": "985bf1284469e16c",
   "lastOpenFiles": [
-    "记录/数字化项目代码统计-soda.md",
+    "计算机/软件开发/工具/git.md",
     "记录/候选人面试定位逻辑.md",
+    "记录/数字化项目代码统计-soda.md",
     "记录/DR-需求记录.md",
     "记录/imgs/候选人面试定位逻辑.md",
     "记录/德锐咨询/未命名.md",
     "记录/德锐咨询",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/04_分析内容创建设计稿.md",
-    "计算机/软件开发/工具/git.md",
     "记录/德锐咨询-数字化项目.md",
     "计算机/软件开发/前端/前端开发前置准备.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/01_生成html设计稿.md",

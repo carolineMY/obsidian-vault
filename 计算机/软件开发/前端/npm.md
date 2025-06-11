@@ -22,7 +22,10 @@ npm view pinia peerDependencies
 ```
 6、[npm与npx ](https://juejin.cn/post/7501975683548823579)
 
-7、安装补丁（使用 patch-package 进行补丁修改node_modules的某个文件的某个方法）
+7、npx清除缓存 
+npx clear-npx-cache
+
+8、安装补丁（使用 patch-package 进行补丁修改node_modules的某个文件的某个方法）
 ```
 npm install patch-package --save-dev
 ```
