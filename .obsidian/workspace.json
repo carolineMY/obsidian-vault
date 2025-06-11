@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9890fac863046cae",
+        "id": "49b210d5ce770f07",
         "type": "tabs",
         "children": [
           {
-            "id": "a18ed2148e7f1a9c",
+            "id": "570ec80cb17f91bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "test"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "UI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,8 +164,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "985bf1284469e16c",
+  "active": "570ec80cb17f91bb",
   "lastOpenFiles": [
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/02_生成html设计稿.md",
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/04_分析内容创建设计稿.md",
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/01_生成html设计稿.md",
+    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/test.md",
+    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
+    "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/工具/git.md",
     "记录/候选人面试定位逻辑.md",
     "记录/数字化项目代码统计-soda.md",
@@ -170,16 +180,11 @@
     "记录/imgs/候选人面试定位逻辑.md",
     "记录/德锐咨询/未命名.md",
     "记录/德锐咨询",
-    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
-    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/04_分析内容创建设计稿.md",
     "记录/德锐咨询-数字化项目.md",
     "计算机/软件开发/前端/前端开发前置准备.md",
-    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/01_生成html设计稿.md",
-    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/02_生成html设计稿.md",
     "hobby.canvas",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词",
     "计算机/人工智能/人工智能应用/cursor使用",
-    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
     "使用cursor开发工作流.md",
     "未命名.md",
     "计算机/人工智能/人工智能应用/AI学英语/英语学习量化目标.md",
@@ -200,8 +205,6 @@
     "计算机/人工智能/人工智能应用/AI学英语/语法.md",
     "计算机/人工智能/人工智能应用/AI学英语/01语法",
     "计算机/人工智能/人工智能应用/AI学英语",
-    "计算机/软件开发/前端/npm.md",
-    "Excalidraw/办公助手.md",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101130250.png",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101134816.png",
     "计算机/人工智能/人工智能应用/imgs/Pasted image 20241101114352.png",
