@@ -1,0 +1,1 @@
+1、注册figma账号，获取figma的access
