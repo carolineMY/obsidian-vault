@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "257478ae1c56e5d1",
+        "id": "dc98660438f742f6",
         "type": "tabs",
         "children": [
           {
-            "id": "7cf6c711a7b6ff44",
+            "id": "2d204ca2c0fca493",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "使用cursor +  figma-developer-mcp设计稿一键生成代码"
-            }
-          },
-          {
-            "id": "3e9c07d5afb6d41d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612134243.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250612134243"
             }
           }
         ]
@@ -176,10 +164,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7cf6c711a7b6ff44",
+  "active": "2d204ca2c0fca493",
   "lastOpenFiles": [
-    "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612134243.png",
+    "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/figma_mcp生成react.md",
     "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/使用cursor +  figma-developer-mcp设计稿一键生成代码.md",
+    "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/figma_mcp生成html.md",
+    "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612134243.png",
+    "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612161945.png",
     "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612153755.png",
     "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612153052.png",
     "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612151519.png",
@@ -188,10 +179,6 @@
     "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612150217.png",
     "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612144820.png",
     "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612143911.png",
-    "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612143431.png",
-    "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs/Pasted image 20250612142950.png",
-    "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/figma_mcp生成react.md",
-    "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/figma_mcp生成html.md",
     "计算机/软件开发/前端/npm.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/03_生成svg设计稿.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/01_生成html设计稿.md",

@@ -1,3 +1,22 @@
+
+### 基本流程
+```mermaid
+graph LR
+    subgraph 准备阶段
+    A[1.获取Figma Token]-->B[2.复制设计稿链接]
+    end
+    
+    subgraph 配置阶段
+    B-->C[3.配置MCP服务]
+    end
+    
+    subgraph 生成阶段
+    C-->D[4.输入AI提示词]
+    D-->E[5.解析设计稿]
+    E-->F[6.下载素材]
+    F-->G[7.输出代码]
+    end
+```
 #### 一、figma准备
 ##### 1、注册figma账号，获取figma的access;
 
@@ -72,12 +91,12 @@ npx清除缓存：npx clear-npx-cache
 3、限制：为了演示效果将全部生成的页面都放到一个HTML中展示
 - 每个界面应作为独立的 HTML 文件存放，例如 home.html、profile.html、settings.html 等。
 - index.html 作为主入口，不直接写入所有界面的 HTML 代码，而是使用 iframe 的方式嵌入这些 HTML 片段，并将所有页面直接平铺展示在 index 页面中，而不是跳转链接，
-- index.html不需要副标题和需求介绍，iframe所在的div，尺寸375x812。
+- iframe所在的div，尺寸375x812。
 
 ```
 **生成结果如下**
 
-![[Pasted image 20250612142950.png]]
+![[Pasted image 20250612161945.png]]
 
 ##### 2、生成taro项目提示词
 ```
@@ -142,7 +161,7 @@ npx清除缓存：npx clear-npx-cache
 ##### 缺点
 
 （1）细节完成度不高
-（2）对设计稿依赖稿，若设计稿不是很通用的设计，可能存在还原错误
+（2）对设计稿依赖高，若设计稿不是很通用的设计，可能存在还原错误
 - 如下图：无论是html 还是taro\uniapp 最终生成的页面,和设计稿都相差甚远；主要原因是设计稿中该元素的背景色没有使用fill填充，颜色读取错误。
  ![[Pasted image 20250612151519.png]]
 （3）依赖提示词，需要一些前置条件，比如：
@@ -152,6 +171,7 @@ npx清除缓存：npx clear-npx-cache
 ![[Pasted image 20250612153052.png]]
 （4）有些细节需要反复调试，由于cursor 生成代码与自己本身编码习惯可能有所差异，所以可能存在意向不到的bug,需要反复调试，即使让cursor修改，仍然需要时间
 （5）一次选择多多设计稿可能会生成报错，建议分批生成
+（6）下载图片可能出现下载失败情况，多试几次即可
 
 ##### 总结
 
