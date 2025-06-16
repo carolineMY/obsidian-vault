@@ -2,6 +2,7 @@
 DR01 密码 02587781109
 ccc 123456 测评
 zhao zhaozhao
+soda 123456
 admin dRzx@2)@2
 
 测试环境-evaluation-UI 包放的服务地址：
