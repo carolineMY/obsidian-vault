@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/华为应用市场上架资质.md",
+                "file": "记录/DR-account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "华为应用市场上架资质"
+              "title": "DR-account"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "npx",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,9 +166,11 @@
   },
   "active": "2d204ca2c0fca493",
   "lastOpenFiles": [
-    "记录/DR-account.md",
-    "记录/华为应用市场上架资质.md",
     "记录/DR-需求记录.md",
+    "记录/account.md",
+    "记录/候选人面试定位逻辑.md",
+    "记录/华为应用市场上架资质.md",
+    "记录/DR-account.md",
     "计算机/人工智能/人工智能技术.md",
     "记录/imgs/Pasted image 20250617090638.png",
     "记录/imgs/Pasted image 20250616172526.png",
@@ -194,7 +196,6 @@
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/04_分析内容创建设计稿.md",
     "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
     "计算机/软件开发/工具/git.md",
-    "记录/候选人面试定位逻辑.md",
     "记录/数字化项目代码统计-soda.md",
     "记录/imgs/候选人面试定位逻辑.md",
     "记录/德锐咨询/未命名.md",
@@ -209,7 +210,6 @@
     "obsidian 文档.canvas",
     "小说主题.canvas",
     "计算机/人工智能/人工智能应用/AI学英语/学习计划.md",
-    "计算机/人工智能/人工智能应用/AI学英语/英语学习目标与执行计划.md",
     "计算机/人工智能/人工智能应用/AI学英语/03听力/听喜欢的歌",
     "计算机/人工智能/人工智能应用/AI学英语/04阅读",
     "计算机/人工智能/人工智能应用/AI学英语/03听力",

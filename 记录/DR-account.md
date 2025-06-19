@@ -26,6 +26,9 @@ curl --location 'http://192.168.10.13:3100/forms/chromium/convert/url' \
 2、盘点管理端
  DRADMIN dradmin@123!!
  
+3、招聘
+admin dRzx@2)@3
+ 
 3、卷王 
 drzx drzx2023
 
