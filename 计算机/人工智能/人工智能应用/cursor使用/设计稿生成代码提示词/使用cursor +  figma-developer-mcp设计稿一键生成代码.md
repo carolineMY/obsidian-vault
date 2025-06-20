@@ -1,12 +1,9 @@
 
 ### 基本流程
 ```mermaid
-graph LR
+graph TB
     subgraph 准备阶段
     A[1.获取Figma Token]-->B[2.复制设计稿链接]
-    end
-    
-    subgraph 配置阶段
     B-->C[3.配置MCP服务]
     end
     
