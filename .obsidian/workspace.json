@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sys",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "83e129e4ff0146d5",
+  "active": "985bf1284469e16c",
   "lastOpenFiles": [
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/05_液态玻璃效果.md",
     "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/使用cursor +  figma-developer-mcp设计稿一键生成代码.md",

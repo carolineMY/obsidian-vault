@@ -1,3 +1,18 @@
+0、测试数据库
+- mySql
+```
+ url: jdbc:mysql://139.224.115.132:4399/wisevirtue?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8  
+        username: root  
+        password: wisevirtue.Com
+```
+
+- redis
+```
+spring.redis.host=139.224.115.132  
+spring.redis.database=0  
+spring.redis.port=7788  
+spring.redis.password=wisevirtue.Com
+```
 1、测评-测试
 DR01 密码 02587781109
 ccc 123456 测评
