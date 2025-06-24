@@ -139,9 +139,7 @@ $arr = [
 这和 JS 的 [{a:1,b:2},{a:3,b:33}] 是一样的结构。
 
 foreach ($users as $key => $user) {
-
     echo $user['name'] . "的爱好有：" . implode('、', $user['hobby']) . "\n";
-
 }
 ```
 
