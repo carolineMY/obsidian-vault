@@ -49,18 +49,24 @@ drzx drzx2023
 
 4、各位伙伴大家好，邮箱的用户名及密码规则：  
 账号：姓的全拼+名的首拼@wisevirtue.com  
-例：钟宇嘉（maoy@wisevirtue.com）  
+例：毛云（maoy@wisevirtue.com）  
 初始密码是：Welcome001
 
-5、VPN-OA 
+5、VPN-OA  maoyun drzx@2025 
 各位伙伴，我们所有人进入OA，需先下载VPN，OA也是每人需要用到的工具之一，请大家抽空花1分钟时间完成下载！  
+软件名：easyconnect
 1.VPN客户端安装下载地址： https://47.96.187.25/portal/#!/login  
 2.VPN服务器地址： 47.96.187.25  
 3.VPN个人账号：自己姓名的拼音全拼 liugang01   
 4.VPN初始密码： Drzx@2025  
 5.VPN账号跟电脑是绑定的，每个人一台电脑和一部手机
 
-6、公众号主体：
+
+
+6、VPN开通
+https://47.96.187.25:4430/  dr_admin  Drzx@2025
+
+7、公众号主体：
 - 德锐咨询：上海德锐人效管理咨询有限公司
 - 德锐招聘官：南京德锐人效云科技有限公司
 - 德锐创新研究院：江苏德锐管理咨询有限公司
