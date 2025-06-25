@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/DR-account.md",
+                "file": "计算机/软件开发/后端/php/php基础语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DR-account"
+              "title": "php基础语法"
             }
           }
         ]
@@ -166,14 +166,14 @@
   },
   "active": "83e129e4ff0146d5",
   "lastOpenFiles": [
+    "记录/DR-account.md",
+    "计算机/软件开发/后端/php/php基础语法.md",
     "计算机/软件开发/后端/php/laravel/02常用命令.md",
     "计算机/软件开发/后端/php/laravel/01基础.md",
     "计算机/软件开发/后端/php/laravel",
-    "计算机/软件开发/后端/php/php基础语法.md",
     "记录/数字化项目代码统计-soda.md",
     "计算机/软件开发/后端/后端.md",
     "计算机/软件开发/后端/php",
-    "记录/DR-account.md",
     "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/前端/node 常见问题.md",
     "计算机/软件开发/前端/mock数据.md",
