@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/软件开发/后端/php/laravel/13_laravel缓存第三方包的服务提供者和别名.md",
+                "file": "计算机/软件开发/后端/php/laravel/04_Laravel 后端接口调试方法大全.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13_laravel缓存第三方包的服务提供者和别名"
+              "title": "04_Laravel 后端接口调试方法大全"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "ddf6cdf78e401c8e",
   "lastOpenFiles": [
-    "计算机/软件开发/后端/php/laravel/04_artisan 项目启动问题.md",
     "计算机/软件开发/后端/php/laravel/13_laravel缓存第三方包的服务提供者和别名.md",
+    "计算机/软件开发/后端/php/laravel/04_Laravel 后端接口调试方法大全.md",
+    "计算机/软件开发/后端/php/laravel/04_artisan 项目启动问题.md",
     "计算机/软件开发/后端/php/laravel/03_composer、artisan常用命令.md",
     "计算机/软件开发/后端/php/laravel/02_Artisan vs Composer 快速理解.md",
     "计算机/软件开发/后端/php/laravel/12_APP别名与app().md",
@@ -194,7 +195,6 @@
     "计算机/软件开发/前端/前端开发前置准备.md",
     "计算机/软件开发/前端/前端环境配置.md",
     "计算机/软件开发/前端/前端.md",
-    "计算机/软件开发/UI/UI设计.md",
     "记录/imgs/Pasted image 20250617090638.png",
     "记录/imgs/Pasted image 20250616172526.png",
     "记录/imgs/Pasted image 20250616140608.png",
