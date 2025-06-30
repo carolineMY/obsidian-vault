@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/软件开发/后端/数据库/01_数据库基础知识（to 前端开发者）.md",
+                "file": "计算机/软件开发/后端/php/laravel/06_Blade 模板学习指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_数据库基础知识（to 前端开发者）"
+              "title": "06_Blade 模板学习指南"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "ddf6cdf78e401c8e",
   "lastOpenFiles": [
-    "计算机/软件开发/后端/php/laravel/03_composer、artisan常用命令.md",
     "计算机/软件开发/后端/数据库/01_数据库基础知识（to 前端开发者）.md",
+    "计算机/软件开发/后端/php/laravel/06_Blade 模板学习指南.md",
+    "计算机/软件开发/后端/php/laravel/03_composer、artisan常用命令.md",
     "计算机/软件开发/后端/数据库",
     "计算机/软件开发/后端/php/laravel/04_artisan常用命令.md",
     "计算机/软件开发/后端/php/laravel/02_Artisan vs Composer 快速理解.md",
@@ -194,7 +195,6 @@
     "计算机/人工智能/人工智能应用/智能PPT生成/总览.md",
     "记录/DR-需求记录.md",
     "记录/候选人面试定位逻辑.md",
-    "记录/华为应用市场上架资质.md",
     "记录/imgs/Pasted image 20250617090638.png",
     "记录/imgs/Pasted image 20250616172526.png",
     "记录/imgs/Pasted image 20250616140608.png",
