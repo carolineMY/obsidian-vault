@@ -11,17 +11,14 @@
             "id": "a41a254fcbaddcb3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "hobby.canvas",
-                "viewState": {
-                  "x": -6367.5,
-                  "y": -300.3134182174339,
-                  "zoom": -0.7855925626468582
-                }
+                "file": "计算机/软件开发/后端/数据库/01_基础知识（to 前端开发者）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "hobby"
+              "icon": "lucide-file",
+              "title": "01_基础知识（to 前端开发者）"
             }
           }
         ]
@@ -169,8 +166,11 @@
   },
   "active": "a41a254fcbaddcb3",
   "lastOpenFiles": [
-    "obsidian 文档.canvas",
+    "计算机/软件开发/后端/数据库/02_基础操作语法.md",
+    "计算机/软件开发/后端/数据库/01_基础知识（to 前端开发者）.md",
+    "计算机/软件开发/后端/php/laravel/18_数据库基础语法与 Eloquent 对比.md",
     "hobby.canvas",
+    "obsidian 文档.canvas",
     "小说主题.canvas",
     "记录/德锐咨询/德锐咨询小程-求职招聘类目解答-20250702.md",
     "记录/德锐咨询",
@@ -196,8 +196,6 @@
     "计算机/软件开发/后端/php/laravel/02_Artisan vs Composer 快速理解.md",
     "计算机/软件开发/后端/php/laravel/09_分发请求与路由注册.md",
     "计算机/软件开发/后端/php/laravel/07_kernel.md",
-    "计算机/软件开发/后端/php/laravel/08_ HTTP 请求完整流程.md",
-    "计算机/软件开发/后端/php/laravel/04_Laravel 后端接口调试方法大全.md",
     "计算机/软件开发/后端/数据库",
     "计算机/软件开发/后端/php/laravel",
     "计算机/软件开发/后端/php",
