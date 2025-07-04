@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/德锐咨询/DR-account.md",
+                "file": "记录/account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DR-account"
+              "title": "account"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "de5eab0a54d7d106",
   "lastOpenFiles": [
+    "记录/德锐咨询/DR-account.md",
     "记录/account.md",
     "计算机/软件开发/后端/数据库/表设计demo/01_管理举措.md",
     "计算机/软件开发/后端/数据库/未命名.md",
@@ -193,7 +194,6 @@
     "记录/德锐咨询/华为应用市场上架资质.md",
     "记录/德锐咨询/数字化项目代码统计-soda.md",
     "记录/德锐咨询/DR-需求记录.md",
-    "记录/德锐咨询/DR-account.md",
     "计算机/软件开发/前端/webpack知识汇总.md",
     "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/前端/node 常见问题.md",

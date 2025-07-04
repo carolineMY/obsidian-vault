@@ -23,3 +23,5 @@ username 工作微信
 10、docker
 maoyun0312@gmail.com
 username： soda0918
+11、cursor CA 
+Soda    as usual
