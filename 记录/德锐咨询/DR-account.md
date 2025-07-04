@@ -13,6 +13,11 @@ spring.redis.database=0
 spring.redis.port=7788  
 spring.redis.password=wisevirtue.Com
 ```
+
+0、阿里云
+wangwei@1528625714073521.onaliyun.com
+Alvin888
+
 1、测评-测试
 DR01 密码 02587781109
 ccc 123456 测评
@@ -60,7 +65,6 @@ drzx drzx2023
 3.VPN个人账号：自己姓名的拼音全拼 liugang01   
 4.VPN初始密码： Drzx@2025  
 5.VPN账号跟电脑是绑定的，每个人一台电脑和一部手机
-
 
 
 6、VPN开通
