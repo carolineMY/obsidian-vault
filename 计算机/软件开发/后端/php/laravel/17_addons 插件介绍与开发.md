@@ -76,8 +76,12 @@ MeeduBooks/
 
 8. **注册插件**
    - 插件开发完成后，主系统会通过 `AddonsProvider` 动态注册插件的 ServiceProvider（如 `MainServiceProvider`），无需手动写入 `config/app.php`。
-   - 命令：ManageAction为插件名，php artisan ManageAction install  
-   - 创建数据库迁移文件命令：manage_actions为表名字， php artisan make:migration create_manage_actions_table --path=addons/ManageAction/database/migrations
+   - 命令：ManageAction为插件名，
+	   php artisan ManageAction install  
+   - 创建数据库迁移文件命令：
+	   manage_actions为表名字， php artisan make:migration create_manage_actions_table --path=addons/ManageAction/database/migrations
+   - 增加字段：增加sort字段到courses_table表中
+	    php artisan make:migration add_sort_to_courses_table --table=courses
    - 编辑迁移文件
    - 启用插件
 
