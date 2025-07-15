@@ -3,14 +3,21 @@
 如：父组件F1：列表页面，使用子组件C1：新增一条数据的新增dialog, 该子组件使用项目中封装的基础dialog组件D11
 
 1、在父组件F1中：
+```js
 const { isVisible,onConfirm} = useFeedBack()
+```
+
 <C1  v-model="isVisible" @onConfirm="onConfirm"/>
 
 2、在子组件C1中：
+```js
 const { isVisible,onClose,onConfirm} = useFeedBack(emits) // emits
 <D11  v-model="isVisible" @onClose="onClose" @onConfirm="onConfirm">
+```
 
 
+3、hook
+```js
 import { ref, computed, getCurrentInstance, Ref } from 'vue'
 
 export default function useFeedBack(emits?: any) {
@@ -60,3 +67,5 @@ export default function useFeedBack(emits?: any) {
     return { isVisible, isLoading, openFeedBack, closeFeedBack, openLoading, closeLoading }
   }
 }
+```
+

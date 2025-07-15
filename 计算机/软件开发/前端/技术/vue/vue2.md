@@ -3,7 +3,7 @@ cssclasses: []
 aliases: 
 tags:
 ---
-```
+```js
 <script >
 	export default {
 		data(){
