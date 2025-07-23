@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/软件开发/前端/技术/vue/vue封装el-dialog等反馈组件hook.md",
+                "file": "记录/德锐咨询/DR-account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vue封装el-dialog等反馈组件hook"
+              "title": "DR-account"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,6 +166,13 @@
   },
   "active": "de5eab0a54d7d106",
   "lastOpenFiles": [
+    "记录/德锐咨询/DR-需求记录.md",
+    "计算机/软件开发/后端/php/laravel/04_artisan 项目启动问题.md",
+    "计算机/软件开发/后端/php/laravel/04_Laravel 后端接口调试方法大全.md",
+    "计算机/软件开发/后端/php/laravel/01_基础.md",
+    "计算机/软件开发/后端/php/laravel/01_Laravel 服务提供者（ServiceProvider）生命周期的本质.md",
+    "记录/德锐咨询/大五性格测评.md",
+    "计算机/软件开发/前端/技术/vue/vue封装el-dialog等反馈组件hook.md",
     "计算机/软件开发/前端/技术/vue/vue3知识汇总.md",
     "计算机/软件开发/前端/技术/vue/vue3.md",
     "计算机/软件开发/前端/技术/vue/vue2.md",
@@ -173,9 +180,6 @@
     "计算机/软件开发/前端/技术/css/less.md",
     "计算机/软件开发/前端/技术/js/js知识汇总.md",
     "计算机/软件开发/前端/技术/js/工具方法.md",
-    "计算机/软件开发/后端/php/laravel/04_artisan 项目启动问题.md",
-    "计算机/软件开发/后端/php/laravel/01_基础.md",
-    "计算机/软件开发/后端/php/laravel/01_Laravel 服务提供者（ServiceProvider）生命周期的本质.md",
     "计算机/软件开发/后端/php/laravel/17_addons 插件介绍与开发.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/01_生成html设计稿.md",
     "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/02_生成html设计稿.md",
@@ -183,17 +187,13 @@
     "计算机/软件开发/后端/php/laravel/18_数据库基础语法与 Eloquent 对比.md",
     "记录/德锐咨询/招聘登录逻辑.md",
     "记录/德锐咨询/盘点胜任力中心.md",
-    "记录/德锐咨询/大五性格测评.md",
     "记录/德锐咨询/盘点aixos及avue.md",
     "计算机/软件开发/后端/php/laravel/03_composer、artisan常用命令.md",
     "计算机/软件开发/后端/阿里java开发手册.md",
     "计算机/软件开发/后端/java",
     "计算机/软件开发/后端/php/laravel/16_addons_service_provider.json的生成机制.md",
     "记录/account.md",
-    "计算机/软件开发/后端/数据库/表设计demo/01_管理举措.md",
-    "计算机/软件开发/后端/数据库/未命名.md",
     "计算机/软件开发/后端/数据库/表设计demo",
-    "计算机/软件开发/后端/php/laravel/02_Artisan vs Composer 快速理解.md",
     "计算机/软件开发/工具/git",
     "hobby.canvas",
     "obsidian 文档.canvas",
