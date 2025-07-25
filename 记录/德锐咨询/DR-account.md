@@ -91,3 +91,8 @@ https://47.96.187.25:4430/  dr_admin  Drzx@2025
 言国 15553737987
 南京德言文化传媒有限公司 91320106MACHJ3GX8P
 抖音开放平台超管手机号：18550613057 wisevirtue.Com
+
+10、meedu 文档
+https://docs.meedu.vip/doc/k9Hi1AwaHu
+
+dr@wisevirtue.com   wisevirtue.Com2025
