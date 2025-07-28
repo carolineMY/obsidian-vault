@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/德锐咨询/DR-account.md",
+                "file": "计算机/软件开发/后端/frp反向代理使用步骤.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DR-account"
+              "title": "frp反向代理使用步骤"
             }
           }
         ]
@@ -166,10 +166,11 @@
   },
   "active": "de5eab0a54d7d106",
   "lastOpenFiles": [
+    "记录/德锐咨询/DR-account.md",
+    "计算机/软件开发/后端/frp反向代理使用步骤.md",
     "记录/account.md",
     "记录/德锐咨询/德锐咨询小程-求职招聘类目解答-20250702.md",
     "记录/德锐咨询/华为应用市场上架资质.md",
-    "记录/德锐咨询/DR-account.md",
     "记录/德锐咨询/DR-需求记录.md",
     "计算机/软件开发/后端/php/laravel/04_artisan 项目启动问题.md",
     "计算机/软件开发/后端/php/laravel/04_Laravel 后端接口调试方法大全.md",
@@ -191,7 +192,6 @@
     "记录/德锐咨询/招聘登录逻辑.md",
     "记录/德锐咨询/盘点胜任力中心.md",
     "记录/德锐咨询/盘点aixos及avue.md",
-    "计算机/软件开发/后端/php/laravel/03_composer、artisan常用命令.md",
     "计算机/软件开发/后端/java",
     "计算机/软件开发/后端/数据库/表设计demo",
     "计算机/软件开发/工具/git",
