@@ -98,3 +98,5 @@ https://docs.meedu.vip/doc/k9Hi1AwaHu
 dr@wisevirtue.com   wisevirtue.Com2025
 
 11、# 微信小店「小程序连接小店」功能指引https://developers.weixin.qq.com/community/develop/article/doc/0000cc30948400059ba3d0f5666413
+
+dr@wisevirtue.com   wisevirtue.Com2025
