@@ -15,3 +15,5 @@ custom_domains = mall.deyanflow.com // 最终使用的访问地址
 
 2、启动
 frpc -c frpc.ini
+
+frpc -c frpc.toml
