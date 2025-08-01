@@ -24,6 +24,7 @@ ccc 123456 测评
 zhao zhaozhao
 soda 123456
 admin dRzx@2)@2
+talent_dr talent_dr 人才盘点
 
 测试环境-evaluation-UI 包放的服务地址：
 101.133.150.249

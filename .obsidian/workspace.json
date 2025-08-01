@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e27f5856fa62ba8",
+        "id": "67d0c2cb9bece59f",
         "type": "tabs",
         "children": [
           {
-            "id": "de5eab0a54d7d106",
+            "id": "23716c0cb6cec420",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/软件开发/后端/frp反向代理使用步骤.md",
+                "file": "记录/德锐咨询/DR-account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "frp反向代理使用步骤"
+              "title": "DR-account"
             }
           }
         ]
@@ -164,10 +164,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "de5eab0a54d7d106",
+  "active": "23716c0cb6cec420",
   "lastOpenFiles": [
-    "记录/德锐咨询/DR-account.md",
     "计算机/软件开发/后端/frp反向代理使用步骤.md",
+    "记录/德锐咨询/DR-account.md",
     "记录/account.md",
     "记录/德锐咨询/德锐咨询小程-求职招聘类目解答-20250702.md",
     "记录/德锐咨询/华为应用市场上架资质.md",
