@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67d0c2cb9bece59f",
+        "id": "cc7b90833be73c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "23716c0cb6cec420",
+            "id": "aaef49e9c204221c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "记录/德锐咨询/DR-account.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DR-account"
+              "title": "新标签页"
             }
           }
         ]
@@ -164,9 +160,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "23716c0cb6cec420",
+  "active": "2274d30ea099b4d9",
   "lastOpenFiles": [
+    "计算机/软件开发/后端/后端.md",
     "计算机/软件开发/后端/frp反向代理使用步骤.md",
+    "计算机/软件开发/后端/阿里java开发手册.md",
+    "计算机/软件开发/后端/java/02、maven.md",
+    "计算机/软件开发/后端/java/03、SpringBoot.md",
+    "计算机/软件开发/后端/java/SpringBoot",
+    "计算机/软件开发/后端/java/01、基础语法.md",
+    "计算机/人工智能/人工智能应用/AI智能体 工作流.md",
+    "计算机/人工智能/人工智能应用/AI学英语/学习计划.md",
+    "计算机/人工智能/人工智能应用/AI学英语/英语学习目标与执行计划.md",
+    "计算机/人工智能/人工智能应用/AI学英语/每日学习计划.md",
+    "计算机/人工智能/人工智能应用/AI学英语/英语学习量化目标.md",
+    "计算机/人工智能/人工智能应用/AI学英语/02口语/1、日常口语.md",
+    "计算机/人工智能/人工智能应用/AI学英语/01语法/1、基础语法.md",
+    "计算机/软件开发/UI/UI设计.md",
+    "计算机/软件开发/前端/npm.md",
+    "计算机/软件开发/前端/多端开发.md",
+    "计算机/软件开发/前端/技术/vue/vue封装el-dialog等反馈组件hook.md",
+    "计算机/软件开发/前端/技术/vue/pinia/01、单向数据流.md",
+    "计算机/软件开发/前端/技术/vue/pinia",
     "记录/德锐咨询/DR-account.md",
     "记录/account.md",
     "记录/德锐咨询/德锐咨询小程-求职招聘类目解答-20250702.md",
@@ -175,23 +190,6 @@
     "计算机/软件开发/后端/php/laravel/04_artisan 项目启动问题.md",
     "计算机/软件开发/后端/php/laravel/04_Laravel 后端接口调试方法大全.md",
     "计算机/软件开发/后端/php/laravel/01_基础.md",
-    "计算机/软件开发/后端/php/laravel/01_Laravel 服务提供者（ServiceProvider）生命周期的本质.md",
-    "记录/德锐咨询/大五性格测评.md",
-    "计算机/软件开发/前端/技术/vue/vue封装el-dialog等反馈组件hook.md",
-    "计算机/软件开发/前端/技术/vue/vue3知识汇总.md",
-    "计算机/软件开发/前端/技术/vue/vue3.md",
-    "计算机/软件开发/前端/技术/vue/vue2.md",
-    "计算机/软件开发/前端/技术/css/sass.md",
-    "计算机/软件开发/前端/技术/css/less.md",
-    "计算机/软件开发/前端/技术/js/js知识汇总.md",
-    "计算机/软件开发/前端/技术/js/工具方法.md",
-    "计算机/软件开发/后端/php/laravel/17_addons 插件介绍与开发.md",
-    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/01_生成html设计稿.md",
-    "计算机/人工智能/人工智能应用/cursor使用/生成设计稿提示词/02_生成html设计稿.md",
-    "计算机/软件开发/后端/php/laravel/18_数据库基础语法与 Eloquent 对比.md",
-    "记录/德锐咨询/招聘登录逻辑.md",
-    "记录/德锐咨询/盘点胜任力中心.md",
-    "记录/德锐咨询/盘点aixos及avue.md",
     "计算机/软件开发/后端/java",
     "计算机/软件开发/后端/数据库/表设计demo",
     "计算机/软件开发/工具/git",
@@ -213,8 +211,6 @@
     "记录/imgs/Pasted image 20250616115204.png",
     "记录/imgs/Pasted image 20250616114735.png",
     "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/imgs",
-    "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词",
-    "记录/德锐咨询",
     "Excalidraw/未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
