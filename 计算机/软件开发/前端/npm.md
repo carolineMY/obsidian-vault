@@ -1,5 +1,5 @@
 1、使用淘宝镜像源
-```text
+```
 npm config set registry http://registry.npm.taobao.org
 ```
 2、当前安装使用淘宝镜像源下载
@@ -28,4 +28,13 @@ npx clear-npx-cache
 8、安装补丁（使用 patch-package 进行补丁修改node_modules的某个文件的某个方法）
 ```
 npm install patch-package --save-dev
+```
+9、检查 npm 的全局安装路径
+```
+npm config get prefix
+```
+10、检查全局安装的某个包的路径，如pnpm
+
+```
+npm install -g pnpm
 ```
