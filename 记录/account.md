@@ -17,7 +17,7 @@ maoyun0312@gmail.com  'yunge312My'
 username: love_soda_water
 emial: maoyun0312@gmail.com
 8、Postman
-username: 1471718397@11.com  as usual
+username: 1471718397@qq.com  as usual
 9、Apifox
 username 工作微信
 10、docker
@@ -25,3 +25,5 @@ maoyun0312@gmail.com
 username： soda0918
 11、cursor CA 
 Soda    as usual
+12、claude code
+Croline
