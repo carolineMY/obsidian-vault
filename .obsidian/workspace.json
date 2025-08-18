@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/软件开发/后端/java/crm启动顺序.md",
+                "file": "计算机/软件开发/软件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "crm启动顺序"
+              "title": "软件"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "aaef49e9c204221c",
   "lastOpenFiles": [
-    "计算机/软件开发/后端/java/01、基础语法.md",
+    "hobby.canvas",
     "计算机/软件开发/后端/java/crm启动顺序.md",
+    "计算机/软件开发/后端/java/01、基础语法.md",
     "计算机/软件开发/后端/java/02、maven.md",
     "记录/德锐咨询/DR-account.md",
     "记录/account.md",
@@ -192,9 +193,7 @@
     "Excalidraw/办公助手.md",
     "小说主题.canvas",
     "obsidian 文档.canvas",
-    "hobby.canvas",
     "计算机/软件开发/后端/php/php基础语法.md",
-    "计算机/软件开发/后端/php/laravel/01_基础.md",
     "计算机/软件开发/后端/java/SpringBoot",
     "计算机/软件开发/前端/技术/vue/pinia",
     "计算机/软件开发/后端/java",

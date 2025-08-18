@@ -15,7 +15,8 @@
 		{"id":"60c7e3effc45d8e8","type":"text","text":"一天推一漫（剪映+podo+概括+动起来？）","x":-6400,"y":-740,"width":250,"height":60,"color":"1"},
 		{"id":"5e6a8fa05cde8c22","type":"text","text":"AI做个小游戏","x":-6775,"y":-880,"width":250,"height":60,"color":"1"},
 		{"id":"f0c5cf9c4953c6dc","type":"text","text":"免费漫画软件[github项目](https://github.com/hongchacha/cartoon?tab=readme-ov-file)","x":-6465,"y":-940,"width":250,"height":60,"color":"1"},
-		{"id":"446feb0b5a4993ac","type":"text","text":"AI做微信小程序MBTI测试[[01_P微信小程序版MBTI测试]]","x":-7000,"y":-70,"width":260,"height":90,"color":"1"}
+		{"id":"446feb0b5a4993ac","type":"text","text":"AI做微信小程序MBTI测试[[01_P微信小程序版MBTI测试]]","x":-7000,"y":-70,"width":260,"height":90,"color":"1"},
+		{"id":"59db05c0dc1fdb43","x":-7200,"y":-650,"width":330,"height":180,"color":"4","type":"text","text":"做一个生成视频的智能体（deepseek+即梦）"}
 	],
 	"edges":[
 		{"id":"fe2dde4edf409f6e","fromNode":"747bae0452ab5f5d","fromSide":"right","toNode":"47c1d4ddfe0b74a9","toSide":"left"},
