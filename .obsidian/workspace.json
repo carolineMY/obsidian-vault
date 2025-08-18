@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/account.md",
+                "file": "计算机/软件开发/后端/java/crm启动顺序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "account"
+              "title": "crm启动顺序"
             }
           }
         ]
@@ -166,6 +166,11 @@
   },
   "active": "aaef49e9c204221c",
   "lastOpenFiles": [
+    "计算机/软件开发/后端/java/01、基础语法.md",
+    "计算机/软件开发/后端/java/crm启动顺序.md",
+    "计算机/软件开发/后端/java/02、maven.md",
+    "记录/德锐咨询/DR-account.md",
+    "记录/account.md",
     "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/前端/多端开发.md",
     "计算机/软件开发/后端/php/laravel/02_Artisan vs Composer 快速理解.md",
@@ -173,8 +178,6 @@
     "计算机/软件开发/前端/webpack知识汇总.md",
     "计算机/计算机基础.md",
     "计算机/计算机工程.md",
-    "记录/德锐咨询/DR-account.md",
-    "记录/account.md",
     "计算机/软件开发/后端/数据库/02_基础操作语法.md",
     "计算机/软件开发/后端/数据库/01_基础知识（to 前端开发者）.md",
     "计算机/软件开发/后端/数据库/表设计demo/01_管理举措.md",
@@ -192,9 +195,6 @@
     "hobby.canvas",
     "计算机/软件开发/后端/php/php基础语法.md",
     "计算机/软件开发/后端/php/laravel/01_基础.md",
-    "计算机/软件开发/后端/php/laravel/07_kernel.md",
-    "计算机/软件开发/后端/数据库/未命名.md",
-    "计算机/软件开发/后端/php/laravel/17_addons 插件介绍与开发.md",
     "计算机/软件开发/后端/java/SpringBoot",
     "计算机/软件开发/前端/技术/vue/pinia",
     "计算机/软件开发/后端/java",
