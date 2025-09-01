@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/软件开发/软件.md",
+                "file": "记录/德锐咨询/DR-account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "软件"
+              "title": "DR-account"
+            }
+          },
+          {
+            "id": "50210b8ddf0eeb30",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vpn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +87,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -164,14 +179,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "aaef49e9c204221c",
+  "active": "50210b8ddf0eeb30",
   "lastOpenFiles": [
+    "记录/account.md",
+    "计算机/软件开发/软件.md",
     "hobby.canvas",
     "计算机/软件开发/后端/java/crm启动顺序.md",
     "计算机/软件开发/后端/java/01、基础语法.md",
     "计算机/软件开发/后端/java/02、maven.md",
     "记录/德锐咨询/DR-account.md",
-    "记录/account.md",
     "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/前端/多端开发.md",
     "计算机/软件开发/后端/php/laravel/02_Artisan vs Composer 快速理解.md",
