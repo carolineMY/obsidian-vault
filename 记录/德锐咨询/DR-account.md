@@ -45,7 +45,7 @@ curl --location 'http://192.168.10.13:3100/forms/chromium/convert/url' \
 --form 'waitForExpression="window.state === '\''ready'\''"'
 
 2、盘点管理端
- DRADMIN dradmin@123!!
+ DRADMIN wisevirtue.Com
  
 3、招聘
 admin dRzx@2)@3
