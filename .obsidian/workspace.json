@@ -11,14 +11,17 @@
             "id": "606dee9998a3bea8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "记录/德锐咨询/DR-account.md",
-                "mode": "source",
-                "source": false
+                "file": "hobby.canvas",
+                "viewState": {
+                  "x": -6632.0311921783405,
+                  "y": -674.1657145314076,
+                  "zoom": 0.2200484808681485
+                }
               },
-              "icon": "lucide-file",
-              "title": "DR-account"
+              "icon": "lucide-layout-dashboard",
+              "title": "hobby"
             }
           }
         ]
@@ -167,6 +170,8 @@
   },
   "active": "606dee9998a3bea8",
   "lastOpenFiles": [
+    "小说主题.canvas",
+    "记录/德锐咨询/DR-account.md",
     "记录/account.md",
     "未命名 2.base",
     "未命名 1.base",
@@ -176,7 +181,6 @@
     "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/前端/node 常见问题.md",
     "计算机/人工智能/人工智能应用/cursor使用/设计稿生成代码提示词/使用cursor +  figma-developer-mcp设计稿一键生成代码.md",
-    "记录/德锐咨询/DR-account.md",
     "记录/德锐咨询/DR-需求记录.md",
     "记录/德锐咨询/招聘登录逻辑.md",
     "记录/德锐咨询/盘点aixos及avue.md",
@@ -186,7 +190,6 @@
     "Excalidraw/办公助手.md",
     "未命名.canvas",
     "未命名 3.base",
-    "小说主题.canvas",
     "hobby.canvas",
     "计算机/软件开发/后端/php/laravel/03_composer、artisan常用命令.md",
     "计算机/软件开发/后端/php/laravel/17_addons 插件介绍与开发.md",
