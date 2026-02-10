@@ -25,5 +25,6 @@ maoyun0312@gmail.com
 username： soda0918
 11、cursor CA 
 Soda    as usual
-12、claude code
-Croline
+12、ikuu 魔法
+https://ikuuu.nl/user/profile
+maoyun0312@gmail.com  yunge312My
