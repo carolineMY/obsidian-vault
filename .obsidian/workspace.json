@@ -25,12 +25,14 @@
             "id": "23433c2157c4f74c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "计算机/软件开发/后端/php/laravel/04_artisan 项目启动问题.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "icon": "lucide-file",
+              "title": "04_artisan 项目启动问题"
             }
           }
         ],
@@ -180,6 +182,8 @@
   },
   "active": "23433c2157c4f74c",
   "lastOpenFiles": [
+    "计算机/软件开发/后端/php/laravel/01_基础.md",
+    "记录/account.md",
     "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
     "hobby.canvas",
     "小说主题.canvas",
@@ -190,7 +194,6 @@
     "记录/德锐咨询/大五性格测评.md",
     "记录/德锐咨询/华为应用市场上架资质.md",
     "记录/德锐咨询/DR-account.md",
-    "记录/account.md",
     "计算机/人工智能/人工智能应用/AI学英语/每日学习计划.md",
     "计算机/软件开发/windows 终端.md",
     "计算机/软件开发/前端/npm.md",
@@ -212,7 +215,6 @@
     "计算机/软件开发/后端/php/laravel/14_config配置文件加载.md",
     "计算机/软件开发/后端/php/laravel/13_laravel缓存第三方包的服务提供者和别名.md",
     "计算机/软件开发/后端/php/laravel/12_APP别名与app().md",
-    "计算机/软件开发/后端/php/laravel/11_RouteServiceProvider.md",
     "obsidian 文档.canvas",
     "计算机/软件开发/后端/java/SpringBoot",
     "计算机/软件开发/前端/技术/vue/pinia",
