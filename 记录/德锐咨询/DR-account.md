@@ -58,18 +58,8 @@ drzx drzx2023
 例：毛云（maoy@wisevirtue.com）  
 初始密码是：Welcome001
 
-5、VPN-OA  maoyun drzx@2025 
-各位伙伴，我们所有人进入OA，需先下载VPN，OA也是每人需要用到的工具之一，请大家抽空花1分钟时间完成下载！  
-软件名：easyconnect
-1.VPN客户端安装下载地址： https://47.96.187.25/portal/#!/login  
-2.VPN服务器地址： 47.96.187.25  
-3.VPN个人账号：自己姓名的拼音全拼 liugang01   
-4.VPN初始密码： Drzx@2025  
-5.VPN账号跟电脑是绑定的，每个人一台电脑和一部手机
-
-
-6、VPN开通
-https://47.96.187.25:4430/  dr_admin  Drzx@2025
+6、VPN-OA
+https://101.37.35.87  maoyun drzx@2025
 
 7、公众号主体：
 - 德锐咨询：上海德锐人效管理咨询有限公司
@@ -101,3 +91,7 @@ dr@wisevirtue.com   wisevirtue.Com2025
 11、# 微信小店「小程序连接小店」功能指引https://developers.weixin.qq.com/community/develop/article/doc/0000cc30948400059ba3d0f5666413
 
 dr@wisevirtue.com   wisevirtue.Com2025
+
+12、讯课后台（德锐云课视频）
+https://cloud.ixunke.cn/manage/home
+15365142034  derui2034
