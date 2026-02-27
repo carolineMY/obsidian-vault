@@ -95,3 +95,6 @@ dr@wisevirtue.com   wisevirtue.Com2025
 12、讯课后台（德锐云课视频）
 https://cloud.ixunke.cn/manage/home
 15365142034  derui2034
+
+13、招聘--AI测试组织
+https://job.wisevirtue.cn/pc/?1NKTVU8G0BC#/login
