@@ -25,17 +25,14 @@
             "id": "23433c2157c4f74c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "hobby.canvas",
-                "viewState": {
-                  "x": -6650.677805865939,
-                  "y": -571.2017141961122,
-                  "zoom": 0.21995855565001193
-                }
+                "file": "记录/德锐咨询/候选人面试定位逻辑.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "hobby"
+              "icon": "lucide-file",
+              "title": "候选人面试定位逻辑"
             }
           }
         ],
@@ -185,8 +182,11 @@
   },
   "active": "23433c2157c4f74c",
   "lastOpenFiles": [
-    "obsidian 文档.canvas",
+    "记录/德锐咨询/招聘登录逻辑.md",
+    "记录/德锐咨询/DR-需求记录.md",
+    "记录/德锐咨询/AI面试助手.md",
     "hobby.canvas",
+    "obsidian 文档.canvas",
     "Excalidraw/imgs/Pasted Image 20241101135656_380.png",
     "人力资源/性格测评.md",
     "人力资源/人才盘点.md",
@@ -201,10 +201,8 @@
     "计算机/计算机工程.md",
     "计算机/计算机基础.md",
     "记录/德锐咨询/DR-account.md",
-    "记录/德锐咨询/AI面试助手.md",
     "记录/德锐咨询/候选人面试定位逻辑.md",
     "记录/德锐咨询/德锐咨询小程-求职招聘类目解答-20250702.md",
-    "记录/德锐咨询/招聘登录逻辑.md",
     "计算机/软件开发/后端/php/laravel/04_artisan 项目启动问题.md",
     "计算机/软件开发/后端/php/laravel/01_基础.md",
     "记录/account.md",
