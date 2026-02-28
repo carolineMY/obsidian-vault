@@ -18,11 +18,12 @@
 		{"id":"60c7e3effc45d8e8","type":"text","text":"一天推一漫（剪映+podo+概括+动起来？）","x":-6500,"y":-425,"width":250,"height":60,"color":"1"},
 		{"id":"59db05c0dc1fdb43","type":"text","text":"做一个生成视频的智能体（deepseek+即梦）","x":-6775,"y":-690,"width":330,"height":70,"color":"4"},
 		{"id":"f0c5cf9c4953c6dc","type":"text","text":"免费漫画软件[github项目](https://github.com/hongchacha/cartoon?tab=readme-ov-file)","x":-6500,"y":-600,"width":250,"height":60,"color":"1"},
-		{"id":"7828e021e152a81b","x":-6495,"y":-330,"width":250,"height":60,"color":"1","type":"text","text":"每日兼职体验"},
+		{"id":"7828e021e152a81b","type":"text","text":"每日兼职体验","x":-6495,"y":-330,"width":250,"height":60,"color":"1"},
 		{"id":"47c1d4ddfe0b74a9","type":"file","file":"计算机/人工智能/人工智能应用/战斗机器/中国机器总览.md","x":-6430,"y":-160,"width":310,"height":80,"color":"3"},
-		{"id":"bf0f0375bec9a32a","x":-7140,"y":-620,"width":114,"height":50,"color":"2","type":"text","text":"动手能力"},
+		{"id":"bf0f0375bec9a32a","type":"text","text":"动手能力","x":-7140,"y":-620,"width":114,"height":50,"color":"2"},
 		{"id":"95ca17f60f6d9a4f","type":"text","text":"你说我拼","x":-6960,"y":-620,"width":140,"height":50,"color":"4"},
-		{"id":"6b1330d4ddc3b1ca","x":-6956,"y":-540,"width":136,"height":51,"color":"2","type":"text","text":"墨家机关术"}
+		{"id":"6b1330d4ddc3b1ca","type":"text","text":"墨家机关术","x":-6956,"y":-540,"width":136,"height":51,"color":"2"},
+		{"id":"2c21efa23e39a5f7","type":"text","text":"视频动作模仿经典片段","x":-6500,"y":-519,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"fe2dde4edf409f6e","fromNode":"747bae0452ab5f5d","fromSide":"right","toNode":"47c1d4ddfe0b74a9","toSide":"left"},
