@@ -25,30 +25,21 @@
             "id": "23433c2157c4f74c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "记录/德锐咨询/DR-account.md",
-                "mode": "source",
-                "source": false
+                "file": "hobby.canvas",
+                "viewState": {
+                  "x": -6355.2339844940925,
+                  "y": -703.0214010247951,
+                  "zoom": -0.4467081110166547
+                }
               },
-              "icon": "lucide-file",
-              "title": "DR-account"
-            }
-          },
-          {
-            "id": "2a556d4542202ad1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "icon": "lucide-layout-dashboard",
+              "title": "hobby"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +183,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2a556d4542202ad1",
+  "active": "23433c2157c4f74c",
   "lastOpenFiles": [
+    "记录/德锐咨询/DR-account.md",
     "记录/德锐咨询/AI面试助手.md",
     "记录/德锐咨询/候选人面试定位逻辑.md",
     "记录/德锐咨询/招聘登录逻辑.md",
@@ -213,7 +205,6 @@
     "计算机/软件开发/前端/前端.md",
     "计算机/计算机工程.md",
     "计算机/计算机基础.md",
-    "记录/德锐咨询/DR-account.md",
     "记录/德锐咨询/德锐咨询小程-求职招聘类目解答-20250702.md",
     "计算机/软件开发/后端/php/laravel/04_artisan 项目启动问题.md",
     "计算机/软件开发/后端/php/laravel/01_基础.md",
