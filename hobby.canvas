@@ -21,15 +21,16 @@
 		{"id":"bf0f0375bec9a32a","type":"text","text":"动手能力","x":-7140,"y":-620,"width":114,"height":50,"color":"2"},
 		{"id":"95ca17f60f6d9a4f","type":"text","text":"你说我拼","x":-6960,"y":-620,"width":140,"height":50,"color":"4"},
 		{"id":"6b1330d4ddc3b1ca","type":"text","text":"墨家机关术","x":-6956,"y":-540,"width":136,"height":51,"color":"2"},
-		{"id":"70d4c7ca8f1a3372","x":-6043,"y":-595,"width":120,"height":60,"type":"text","text":"运动"},
-		{"id":"3a3854c2c5098980","x":-5800,"y":-620,"width":250,"height":60,"color":"1","type":"text","text":"帕梅拉"},
-		{"id":"2af300e6379c7cbe","x":-5800,"y":-519,"width":250,"height":60,"color":"4","type":"text","text":"游泳"},
+		{"id":"70d4c7ca8f1a3372","type":"text","text":"运动","x":-6043,"y":-595,"width":120,"height":60},
+		{"id":"3a3854c2c5098980","type":"text","text":"帕梅拉","x":-5800,"y":-620,"width":250,"height":60,"color":"1"},
+		{"id":"2af300e6379c7cbe","type":"text","text":"游泳","x":-5800,"y":-519,"width":250,"height":60,"color":"4"},
 		{"id":"60c7e3effc45d8e8","type":"text","text":"一天推一漫（剪映+podo+概括+动起来？）","x":-6495,"y":-495,"width":250,"height":60,"color":"1"},
 		{"id":"7828e021e152a81b","type":"text","text":"每日兼职体验（选一些大众感知较少的行业，比如高端技术）","x":-6233,"y":-1040,"width":250,"height":100,"color":"1"},
 		{"id":"2c21efa23e39a5f7","type":"text","text":"视频动作模仿经典片段","x":-6233,"y":-920,"width":250,"height":60,"color":"1"},
-		{"id":"1766f22f32a90aed","x":-6233,"y":-839,"width":250,"height":79,"color":"1","type":"text","text":"豆包等模型出方案，我来实现\n（做衣服，发明、武器）"},
-		{"id":"7da2e28ae61b3a63","x":-6233,"y":-750,"width":250,"height":60,"color":"1","type":"text","text":"openClaw"},
-		{"id":"c499239061662d89","x":-6775,"y":-1140,"width":250,"height":60,"type":"text","text":"AI出新歌，跟着唱"}
+		{"id":"1766f22f32a90aed","type":"text","text":"豆包等模型出方案，我来实现\n（做衣服，发明、武器）","x":-6233,"y":-839,"width":250,"height":79,"color":"1"},
+		{"id":"7da2e28ae61b3a63","type":"text","text":"openClaw","x":-6233,"y":-750,"width":250,"height":60,"color":"1"},
+		{"id":"c499239061662d89","type":"text","text":"AI出新歌，跟着唱","x":-6775,"y":-1140,"width":250,"height":60},
+		{"id":"f1cdb23b4962c4e1","type":"text","text":"男团--漫画男团","x":-6233,"y":-1140,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"fe2dde4edf409f6e","fromNode":"747bae0452ab5f5d","fromSide":"right","toNode":"47c1d4ddfe0b74a9","toSide":"left"},
