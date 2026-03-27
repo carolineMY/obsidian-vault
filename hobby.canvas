@@ -30,7 +30,8 @@
 		{"id":"1766f22f32a90aed","type":"text","text":"豆包等模型出方案，我来实现\n（做衣服，发明、武器）","x":-6233,"y":-839,"width":250,"height":79,"color":"1"},
 		{"id":"7da2e28ae61b3a63","type":"text","text":"openClaw","x":-6233,"y":-750,"width":250,"height":60,"color":"1"},
 		{"id":"c499239061662d89","type":"text","text":"AI出新歌，跟着唱","x":-6775,"y":-1140,"width":250,"height":60},
-		{"id":"f1cdb23b4962c4e1","type":"text","text":"男团--漫画男团","x":-6233,"y":-1140,"width":250,"height":60,"color":"1"}
+		{"id":"f1cdb23b4962c4e1","type":"text","text":"男团--漫画男团","x":-6233,"y":-1140,"width":250,"height":60,"color":"1"},
+		{"id":"7be6d31a7c537497","type":"text","text":"mv--古风动漫人物替换","x":-6233,"y":-1240,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"fe2dde4edf409f6e","fromNode":"747bae0452ab5f5d","fromSide":"right","toNode":"47c1d4ddfe0b74a9","toSide":"left"},
