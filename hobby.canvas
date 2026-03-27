@@ -31,7 +31,9 @@
 		{"id":"7da2e28ae61b3a63","type":"text","text":"openClaw","x":-6233,"y":-750,"width":250,"height":60,"color":"1"},
 		{"id":"c499239061662d89","type":"text","text":"AI出新歌，跟着唱","x":-6775,"y":-1140,"width":250,"height":60},
 		{"id":"f1cdb23b4962c4e1","type":"text","text":"男团--漫画男团","x":-6233,"y":-1140,"width":250,"height":60,"color":"1"},
-		{"id":"7be6d31a7c537497","type":"text","text":"mv--古风动漫人物替换","x":-6233,"y":-1240,"width":250,"height":60,"color":"1"}
+		{"id":"7be6d31a7c537497","type":"text","text":"mv、舞蹈--古风动漫人物替换","x":-6233,"y":-1240,"width":250,"height":60,"color":"1"},
+		{"id":"3f17c729d629a0e5","type":"text","text":"国外动漫角色（白雪公主、冰雪奇缘）--一起跳女团舞","x":-6233,"y":-1320,"width":250,"height":60,"color":"1"},
+		{"id":"c450b520bc0d0cb4","type":"text","text":"葫芦娃重制","x":-6233,"y":-1380,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"fe2dde4edf409f6e","fromNode":"747bae0452ab5f5d","fromSide":"right","toNode":"47c1d4ddfe0b74a9","toSide":"left"},
