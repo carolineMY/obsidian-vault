@@ -20,26 +20,8 @@
               "icon": "lucide-file",
               "title": "account"
             }
-          },
-          {
-            "id": "23433c2157c4f74c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "hobby.canvas",
-                "viewState": {
-                  "x": -6355.2339844940925,
-                  "y": -717.4685276063485,
-                  "zoom": -0.4467081110166547
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "hobby"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,14 +165,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "23433c2157c4f74c",
+  "active": "e9b50b33bf31e685",
   "lastOpenFiles": [
+    "hobby.canvas",
     "记录/德锐咨询/DR-account.md",
     "记录/德锐咨询/AI面试助手.md",
     "记录/德锐咨询/候选人面试定位逻辑.md",
     "记录/德锐咨询/招聘登录逻辑.md",
     "记录/德锐咨询/DR-需求记录.md",
-    "hobby.canvas",
     "obsidian 文档.canvas",
     "Excalidraw/imgs/Pasted Image 20241101135656_380.png",
     "人力资源/性格测评.md",
@@ -217,7 +199,6 @@
     "记录/德锐咨询/大五性格测评.md",
     "记录/德锐咨询/华为应用市场上架资质.md",
     "计算机/人工智能/人工智能应用/AI学英语/每日学习计划.md",
-    "计算机/软件开发/windows 终端.md",
     "未命名.canvas",
     "未命名 3.base",
     "计算机/软件开发/后端/java/SpringBoot",
