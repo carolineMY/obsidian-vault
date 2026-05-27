@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/account.md",
+                "file": "记录/德锐咨询/DR-account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "account"
+              "title": "DR-account"
             }
           }
         ]
@@ -167,8 +167,8 @@
   },
   "active": "e9b50b33bf31e685",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-28 09.42.57.excalidraw.md",
     "记录/account.md",
+    "Excalidraw/Drawing 2026-04-28 09.42.57.excalidraw.md",
     "Excalidraw/未命名.canvas",
     "hobby.canvas",
     "记录/德锐咨询/DR-account.md",
