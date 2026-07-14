@@ -45,18 +45,14 @@ curl --location 'http://192.168.10.13:3100/forms/chromium/convert/url' \
 --form 'waitForExpression="window.state === '\''ready'\''"'
 
 2、盘点管理端
- DRADMIN wisevirtue.Com
+https://talent.wisevirtue.cn/manage/index.html#/login?redirect=%2Fdashboard
+ DRADMIN 通用
  
 3、招聘
 admin dRzx@2)@3
  
-3、卷王 
+4、卷王 
 drzx drzx2023
-
-4、各位伙伴大家好，邮箱的用户名及密码规则：  
-账号：姓的全拼+名的首拼@wisevirtue.com  
-例：毛云（maoy@wisevirtue.com）  
-初始密码是：Welcome001
 
 6、VPN-OA
 https://101.37.35.87  maoyun drzx@2025
@@ -67,34 +63,29 @@ https://101.37.35.87  maoyun drzx@2025
 - 德锐创新研究院：江苏德锐管理咨询有限公司
 - DR性格测评：南京德言文化传媒有限公司
 
-8、南京办公室公司WIFI
-- 15楼：  
-   DRoffice   密码：66668888（大厅专用）  
-   DRmeeting    密码：66668888（培训室专用）  
-- 10楼：  
-   DRZX   密码：66668888  
-- 7楼：  
-   DR01  密码：02587781109  
-   DR01 5G  密码：02587781109
-
 9、抖音
-
 言国 15553737987
 南京德言文化传媒有限公司 91320106MACHJ3GX8P
 抖音开放平台超管手机号：18550613057 wisevirtue.Com
 
-10、meedu 文档
-https://docs.meedu.vip/doc/k9Hi1AwaHu
-
-dr@wisevirtue.com   wisevirtue@Com2025
-
 11、# 微信小店「小程序连接小店」功能指引https://developers.weixin.qq.com/community/develop/article/doc/0000cc30948400059ba3d0f5666413
 
-dr@wisevirtue.com   wisevirtue.Com2025
+12、德锐云课
+meedu文档https://docs.meedu.vip/doc/k9Hi1AwaHu
+https://admin.vip.deyanflow.com/
+dr@wisevirtue.com   通用
 
-12、讯课后台（德锐云课视频）
+讯课后台（德锐云课视频）
 https://cloud.ixunke.cn/manage/home
-15365142034  derui2034
+13170253958  通用
 
 13、招聘--AI测试组织
-https://job.wisevirtue.cn/pc/?1NKTVU8G0BC#/login
+https://nj.wisevirtue.cn/pc/?1NKTVU8G0BC#/login
+test001 123456
+
+14、德锐咨询后台小程序
+https://dr.wisevirtue.cn/login
+admin  通用
+
+15、AI平台
+https://ai.wisevirtue.cn/login?redirect=%252Findex
