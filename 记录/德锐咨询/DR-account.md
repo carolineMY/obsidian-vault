@@ -14,10 +14,6 @@ spring.redis.port=7788
 spring.redis.password=wisevirtue.Com
 ```
 
-0、阿里云
-wangwei@1528625714073521.onaliyun.com
-Alvin888
-
 1、测评-测试
 DR01 密码 02587781109
 ccc 123456 测评
@@ -87,5 +83,11 @@ test001 123456
 https://dr.wisevirtue.cn/login
 admin  通用
 
-15、AI平台
+15、AI智能平台
+德锐咨询  admin wisevirtue2026Com
 https://ai.wisevirtue.cn/login?redirect=%252Findex
+
+16、德锐达crm
+admin
+wisevirtue.Com2027
+
