@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "记录/德锐咨询/DR-需求记录.md",
+                "file": "记录/德锐咨询/DR-account.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DR-需求记录"
+              "title": "DR-account"
             }
           }
         ]
@@ -167,9 +167,9 @@
   },
   "active": "8eaa33d64a3a646a",
   "lastOpenFiles": [
+    "记录/德锐咨询/DR-需求记录.md",
     "记录/德锐咨询/DR-account.md",
     "记录/德锐咨询/销管王/AI销管王内部试点PRD.md",
-    "记录/德锐咨询/DR-需求记录.md",
     "记录/account.md",
     "记录/德锐咨询/销管王/ai-xiaoguanwang-prd.md",
     "记录/imgs/Pasted image 20250616114354.png",

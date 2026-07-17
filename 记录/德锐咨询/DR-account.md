@@ -91,3 +91,6 @@ https://ai.wisevirtue.cn/login?redirect=%252Findex
 admin
 wisevirtue.Com2027
 
+17、文案系统
+admin  admin2027
+
