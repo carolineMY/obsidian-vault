@@ -94,3 +94,6 @@ wisevirtue.Com2027
 17、文案系统
 admin  admin2027
 
+18、ai智能平台--docker阿里云
+dingtengfei@1528625714073521  通用
+

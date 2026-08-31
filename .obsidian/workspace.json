@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "DR-account"
             }
+          },
+          {
+            "id": "1021f2b2dc03f9bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -165,7 +180,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8eaa33d64a3a646a",
+  "active": "1021f2b2dc03f9bd",
   "lastOpenFiles": [
     "记录/德锐咨询/DR-需求记录.md",
     "记录/account.md",
