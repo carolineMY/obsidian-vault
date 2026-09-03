@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "194ba3afefbce24e",
+        "id": "067dad2904a763f8",
         "type": "tabs",
         "children": [
           {
-            "id": "ecb7f9fa31dd509a",
+            "id": "bf27ad665390d563",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "记录/account.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "account"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "root",
+                "query": "ikuu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,9 +168,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ecb7f9fa31dd509a",
+  "active": "bf27ad665390d563",
   "lastOpenFiles": [
     "记录/德锐咨询/DR-account.md",
+    "未命名.base",
     "记录/德锐咨询/DR-需求记录.md",
     "记录/account.md",
     "记录/德锐咨询/销管王/AI销管王内部试点PRD.md",
@@ -202,8 +207,6 @@
     "小说主题.canvas",
     "未命名 2.base",
     "未命名 1.base",
-    "未命名.base",
-    "记录/德锐咨询/大五性格测评.md",
     "未命名.canvas",
     "未命名 3.base",
     "计算机/软件开发/后端/java/SpringBoot",
