@@ -4,6 +4,8 @@
  url: jdbc:mysql://139.224.115.132:4399/wisevirtue?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8  
         username: root  
         password: wisevirtue.Com
+        
+localhost：root  root
 ```
 
 - redis
