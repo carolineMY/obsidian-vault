@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "067dad2904a763f8",
+        "id": "5a5c362e15e09f69",
         "type": "tabs",
         "children": [
           {
-            "id": "bf27ad665390d563",
+            "id": "1c2cc1c11fa27cee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "记录/account.md",
-                "mode": "source",
-                "source": false
+                "file": "obsidian 文档.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "account"
+              "icon": "lucide-layout-dashboard",
+              "title": "obsidian 文档"
             }
           }
         ]
@@ -55,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ikuu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +79,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,29 +170,34 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bf27ad665390d563",
+  "active": "1c2cc1c11fa27cee",
   "lastOpenFiles": [
-    "记录/德锐咨询/DR-account.md",
+    "hobby.canvas",
+    "obsidian 文档.canvas",
+    "小说主题.canvas",
+    "未命名 1.base",
     "未命名.base",
-    "记录/德锐咨询/DR-需求记录.md",
-    "记录/account.md",
+    "人力资源/人才盘点.md",
+    "人力资源/人才画像.md",
+    "计算机/软件开发/后端/php/laravel/01_Laravel 服务提供者（ServiceProvider）生命周期的本质.md",
+    "计算机/人工智能/人工智能应用/文生图-MJ/imgs/Pasted image 20240730163757.png",
+    "计算机/软件开发/后端/java/02、maven.md",
+    "记录/德锐咨询/AI面试助手.md",
     "记录/德锐咨询/销管王/AI销管王内部试点PRD.md",
     "记录/德锐咨询/销管王/ai-xiaoguanwang-prd.md",
+    "记录/account.md",
+    "记录/德锐咨询/DR-account.md",
+    "记录/德锐咨询/DR-需求记录.md",
     "记录/imgs/Pasted image 20250616114354.png",
     "记录/德锐咨询/销管王",
     "记录/imgs/Pasted image 20250616113008.png",
     "记录/imgs/Pasted image 20250616105327.png",
     "Excalidraw/Drawing 2026-04-28 09.42.57.excalidraw.md",
     "Excalidraw/未命名.canvas",
-    "hobby.canvas",
-    "记录/德锐咨询/AI面试助手.md",
     "记录/德锐咨询/候选人面试定位逻辑.md",
     "记录/德锐咨询/招聘登录逻辑.md",
-    "obsidian 文档.canvas",
     "Excalidraw/imgs/Pasted Image 20241101135656_380.png",
     "人力资源/性格测评.md",
-    "人力资源/人才盘点.md",
-    "人力资源/人才画像.md",
     "书籍/思考的框架.md",
     "计算机/软件开发/前端/npm.md",
     "计算机/软件开发/前端/node 常见问题.md",
@@ -202,11 +209,7 @@
     "计算机/计算机基础.md",
     "记录/德锐咨询/德锐咨询小程-求职招聘类目解答-20250702.md",
     "计算机/软件开发/后端/php/laravel/04_artisan 项目启动问题.md",
-    "计算机/软件开发/后端/php/laravel/01_基础.md",
-    "计算机/人工智能/人工智能应用/文生图-MJ/AI 文生图-漫画、三维作品.md",
-    "小说主题.canvas",
     "未命名 2.base",
-    "未命名 1.base",
     "未命名.canvas",
     "未命名 3.base",
     "计算机/软件开发/后端/java/SpringBoot",
@@ -219,7 +222,6 @@
     "记录/imgs/Pasted image 20250616140608.png",
     "记录/imgs/Pasted image 20250616134513.png",
     "记录/imgs/Pasted image 20250616133748.png",
-    "记录/imgs/Pasted image 20250616120424.png",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "google account.canvas",
